@@ -14,7 +14,7 @@ __version__ = '1.0'
 source_suffix = '.rst'
 master_doc = 'index'
 project = 'Libro bianco smart city cantiere FPA 2020'
-copyright = '= licenza CC BY'
+copyright = '= licenza CC BY NC SA'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
