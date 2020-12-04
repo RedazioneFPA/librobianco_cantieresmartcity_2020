@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Manuale d’uso della Procedura Digitale Libro Firma, versione 2.0'
+project = 'Libro bianco smart city cantiere FPA 2020'
 copyright = '= licenza CC BY'
 
 # The name of the Pygments (syntax highlighting) style to use.
@@ -40,8 +40,8 @@ def setup(app):
 """
 #latex_documents = []
 
-latex_logo = "img/pen.png"
-html_logo = "img/pen.png"
+latex_logo = "img/fpa_digital360_negativo.png"
+html_logo = "img/fpa_digital360_negativo.png"
 
 
 # Adding Custom CSS or JavaScript to a Sphinx Project: al seguente link ci sono esempi
