@@ -59,6 +59,17 @@ color: #51bcbc;
 } 
 
 
+
+
+
+/* ------- setta il colore del testo caption menu a sx (prova del 4-dicembre-2020) ----- */
+.wy-menu wy-menu-vertical {background: #27282e;}
+   
+
+
+
+
+
 /* setta il colore dell'area di sfondo dove è il menù menu a sx */
 .wy-nav-side  {background: #27282e;}  
 
