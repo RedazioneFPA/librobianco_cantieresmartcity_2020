@@ -44,7 +44,7 @@ h1, h2, h3 {
 
 /* colore del reattangolo in alto a sinistra dove c'è il logo e il titolo del RTD */
 .wy-side-nav-search {
-    background-color: #85a292; 
+    background-color: #374ebf; 
 }
 
 
@@ -59,7 +59,7 @@ color: #51bcbc;
 
 
 /* setta il colore dell'area di sfondo dove è il menù menu a sx */
-.wy-nav-side  {background: #193a33;} 
+.wy-nav-side  {background: #27282e;} 
 
 
 /* setta il colore del piccolo pannello sx in basso VERSION RTD (Download & Github) */
