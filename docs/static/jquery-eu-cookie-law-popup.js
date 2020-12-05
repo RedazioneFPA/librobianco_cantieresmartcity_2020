@@ -28,7 +28,7 @@ $.fn.euCookieLawPopup = (function() {
 	///////////////////////////////////////////////////////////////////////////////////////////////
 	// PARAMETERS (MODIFY THIS PART) //////////////////////////////////////////////////////////////
 	_self.params = {
-		cookiePolicyUrl : 'https://manuale-libro-firma-2-0.readthedocs.io/it/latest/privacy.html',
+		cookiePolicyUrl : 'https://libro-bianco-cantiere-smartcity-fpa-2020.readthedocs.io/it/latest/privacy.html',
 		popupPosition : 'top',
 		colorStyle : 'default',
 		compactStyle : false,
