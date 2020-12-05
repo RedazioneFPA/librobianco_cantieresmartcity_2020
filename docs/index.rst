@@ -4,7 +4,16 @@
 Presentazione del Libro Bianco per le smart cities
 ##################################################
 
-Un'iniziativa a cura della Redazione di FPA
+
+|REPLACE1|
+
+
+|REPLACE2|
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
 
 Il Libro Bianco per le smart cities è il risultato di un percorso collaborativo promosso da FPA con l’obiettivo di costruire …..
 
@@ -29,13 +38,20 @@ Il Libro Bianco per le smart cities è il risultato di un percorso collaborativo
     privacy
 
 
-..  Important:: 
+..  Note:: 
 
     I contenuti del Libro Bianco sono rilasciati da FPA con licenza Creative Commons \ |LINK1|\ 
 
 
 .. bottom of content
 
+
+.. |REPLACE1| raw:: html
+
+    <strong><span style="background-color:#2980B9; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Un'iniziativa a cura della Redazione Cantieri di FPA</span></strong>
+.. |REPLACE2| raw:: html
+
+    <img src="https://img.shields.io/github/last-commit/RedazioneFPA/librobianco_cantieresmartcity_2020.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=blue" />   
 
 .. |LINK1| raw:: html
 
