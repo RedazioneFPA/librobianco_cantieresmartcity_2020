@@ -8,6 +8,8 @@ A partire dal …. dicembre e fino al …. dicembre , il Libro Bianco è pubblic
 
 In questo video viene illustrato il metodo Hypotes.is utilizzato per la consultazione e interazione sul documento.
 
+Si tratta dello stesso strumento utilizzato nel 2018 per il Libro Bianco sull'innovazione.
+
 |REPLACE1|
 
 
