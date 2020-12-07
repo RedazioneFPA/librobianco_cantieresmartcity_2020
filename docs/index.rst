@@ -7,9 +7,6 @@ Presentazione del Libro Bianco per le smart cities 2020
 
 |REPLACE1|
 
-
-|REPLACE2|
-
 Il :guilabel:`Libro Bianco per le smart cities` è il risultato di un percorso ``collaborativo`` promosso da \ |LINK1|\  con l’obiettivo di costruire …
 
 --------
@@ -55,9 +52,8 @@ Il :guilabel:`Libro Bianco per le smart cities` è il risultato di un percorso `
 
     <span style="background-color:#1b70c4; color: #ffffff; display: inline-block; padding: 1px 7px; border-radius: 4px;">Un'iniziativa a cura della Redazione Cantieri di FPA</span> 
     <img src="https://img.shields.io/github/last-commit/RedazioneFPA/librobianco_cantieresmartcity_2020.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=blue" />
-.. |REPLACE2| raw:: html
-
-    <div style="width: 650px; height: 500px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99"></div>
+    </br>
+    <div style="width: 750px; height: 600px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99"></div>
 
 .. |LINK1| raw:: html
 
