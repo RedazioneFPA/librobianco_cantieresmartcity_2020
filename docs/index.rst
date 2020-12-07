@@ -21,7 +21,7 @@ Il Libro Bianco per le smart cities è il risultato di un percorso collaborativo
 
 .. glossary:: 
 
-    Documentation
+       Documentation
     
     Provides users with the knowledge they need to use something.
 
