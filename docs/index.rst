@@ -24,7 +24,7 @@ Il Libro Bianco per le smart cities è il risultato di un percorso collaborativo
     
 
 
-.. bibliographic fields (which also require a transform):: 
+.. class:: elenco
     :Author: David Goodger
     :Address: 123 Example Street
               Example, EX  Canada
