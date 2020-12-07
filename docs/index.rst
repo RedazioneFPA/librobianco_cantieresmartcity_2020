@@ -14,10 +14,10 @@ Il Libro Bianco per le smart cities è il risultato di un percorso collaborativo
 
 .. class:: importante
 
-    questa è una prova di contenuto dentro una generic ``directive``.
-    Da capire la renderizzazione su pagine web a seguito del commit su Github
+    \*\*questa è una prova di contenuto dentro una generic ``directive``.
+    Questa è la renderizzazione su pagine web a seguito del commit su Github\*\*
 
-Prova di :download:`questo link è per il download<img/fpa_digital360_negativo.png>`
+:download:`Questo link è per il download del logo di FPA<img/fpa_digital360_negativo.png>`.
 
 
 .. toctree:: 
