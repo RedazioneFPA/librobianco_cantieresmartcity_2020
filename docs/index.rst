@@ -14,7 +14,7 @@ Il Libro Bianco per le smart cities è il risultato di un percorso collaborativo
 
 .. class:: importante
 
-    questa è una prova di contenuto dentro una generic directive.
+    questa è una prova di contenuto dentro una generic ``directive``.
     Da capire la renderizzazione su pagine web a seguito del commit su Github
 
 
