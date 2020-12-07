@@ -14,8 +14,6 @@ Il Libro Bianco per le smart cities è il risultato di un percorso collaborativo
 
 .. sidebar::
 
-   .. image:: img/fpa_digital360_negativo.png 
-
    \*Above\* CH'IEN THE CREATIVE, HEAVEN
 
    \*Above\* CH'IEN THE CREATIVE, HEAVEN
