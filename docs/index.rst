@@ -10,12 +10,14 @@ Presentazione del Libro Bianco per le smart cities 2020
 
 |REPLACE2|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
 Il Libro Bianco per le smart cities è il risultato di un percorso collaborativo promosso da FPA con l’obiettivo di costruire …..
+
+.. class:: argomento
+    :option: value
+    :option: value
+
+    questa è una prova di contenuto dentro una ``generic directive``.
+    Da capire la renderizzazione su pagine web a seguito del commit su Github
 
 
 .. toctree:: 
