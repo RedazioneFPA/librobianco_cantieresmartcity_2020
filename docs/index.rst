@@ -14,7 +14,7 @@ Il Libro Bianco per le smart cities è il risultato di un percorso collaborativo
 
 .. sidebar::
 
-   .. image:: \ |LINK1|\ 
+   .. image:: img/fpa_digital360_negativo.png 
 
    \*Above\* CH'IEN THE CREATIVE, HEAVEN
 
@@ -55,7 +55,7 @@ The first hexagram is made up of six unbroken lines. These unbroken lines stand 
 
 ..  Note:: 
 
-    I contenuti del Libro Bianco sono rilasciati da FPA con licenza Creative Commons \ |LINK2|\ 
+    I contenuti del Libro Bianco sono rilasciati da FPA con licenza Creative Commons \ |LINK1|\ 
 
 
 .. bottom of content
@@ -69,10 +69,6 @@ The first hexagram is made up of six unbroken lines. These unbroken lines stand 
     <img src="https://img.shields.io/github/last-commit/RedazioneFPA/librobianco_cantieresmartcity_2020.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=blue" />   
 
 .. |LINK1| raw:: html
-
-    <a href="https://pbs.twimg.com/profile_images/790936120821415937/FuPzi8TI_400x400.jpg" target="_blank">https://pbs.twimg.com/profile_images/790936120821415937/FuPzi8TI_400x400.jpg</a>
-
-.. |LINK2| raw:: html
 
     <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/it/" target="_blank">CC BY NC SA</a>
 
