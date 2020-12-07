@@ -13,7 +13,7 @@ Team redazionale del Libro Bianco
     
     * nome cognome, ruolo
     
-    \ |LINK1|\ , elaborazione per la visualizzazione dei testi su ```Read the Docs``\`, gestione del progetto su Github, predisposizione piattaforma hypothes.is per la partecipazione.
+    \ |LINK1|\ , elaborazione per la visualizzazione dei testi su ``Read the Docs``, gestione del progetto su Github, predisposizione piattaforma hypothes.is per la partecipazione.
 
 .. _h1d445122d6a85e43702145916035:
 
