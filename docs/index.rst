@@ -20,7 +20,7 @@ Il Libro Bianco per le smart cities è il risultato di un percorso collaborativo
 
 .. toctree:: 
     :maxdepth: 3
-    :caption: Indice 
+    :caption: indice 
 
     consultazione_pubblica
     0.Introduzione
