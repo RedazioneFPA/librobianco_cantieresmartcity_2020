@@ -12,11 +12,14 @@ Presentazione del Libro Bianco per le smart cities 2020
 
 Il Libro Bianco per le smart cities è il risultato di un percorso collaborativo promosso da FPA con l’obiettivo di costruire …..
 
-.. sidebar::
+.. sidebar:: 
 
-   \*Above\* CH'IEN THE CREATIVE, HEAVEN
+    
 
-   \*Above\* CH'IEN THE CREATIVE, HEAVEN
+    \*Above\* CH'IEN THE CREATIVE, HEAVEN
+    \*Above\* CH'IEN THE CREATIVE, HEAVEN
+    
+    The first hexagram is made up of six unbroken lines. These unbroken lines stand for the primal power, which is light-giving, active, strong, and of the spirit. The hexagram is consistently strong in character, and since it is without weakness, its essence is power or energy. Its image is heaven. Its energy is represented as unrestricted by any fixed conditions in space and is therefore conceived of as motion. Time is regarded as the basis of this motion.
 
 The first hexagram is made up of six unbroken lines. These unbroken lines stand for the primal power, which is light-giving, active, strong, and of the spirit. The hexagram is consistently strong in character, and since it is without weakness, its essence is power or energy. Its image is heaven. Its energy is represented as unrestricted by any fixed conditions in space and is therefore conceived of as motion. Time is regarded as the basis of this motion.
 
