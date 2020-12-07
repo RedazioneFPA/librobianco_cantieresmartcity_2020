@@ -34,6 +34,13 @@ Il Libro Bianco per le smart cities è il risultato di un percorso collaborativo
 
 .. toctree:: 
     :maxdepth: 1
+    :caption: cookies / team redazionale 
+
+    chi_siamo
+
+
+.. toctree:: 
+    :maxdepth: 1
     :caption: cookies / privacy 
 
     privacy
