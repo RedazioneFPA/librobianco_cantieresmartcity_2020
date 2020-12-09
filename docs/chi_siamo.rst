@@ -17,7 +17,7 @@ Team redazionale del Libro Bianco
     
     * \ |STYLE3|\ , Senior Content Manager FPA 
     
-    * \ |LINK1|\ , elaborazione per la visualizzazione dei testi su :guilabel:`Read the Docs`, gestione del progetto su \ |LINK2|\ , predisposizione per l'uso di Hypothes.is per la partecipazione.
+    * \ |LINK1|\ , supporto per la visualizzazione dei testi su :guilabel:`Read the Docs`, gestione del progetto su \ |LINK2|\ , e utilizzo di Hypothes.is per la partecipazione.
 
 .. _h1d445122d6a85e43702145916035:
 
