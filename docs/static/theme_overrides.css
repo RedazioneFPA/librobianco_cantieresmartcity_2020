@@ -55,6 +55,12 @@ h1, h2, h3 {
 }
 
 
+/* stile pubblcitià */
+div.ethical-text {color: #1e435e !important;}
+.ethical-sidebar .ethical-callout, .ethical-footer .ethical-callout {color: #1e435e !important;}
+.ethical-rtd .ethical-sidebar a, .ethical-rtd .ethical-sidebar a:visited, .ethical-rtd .ethical-sidebar a:hover, .ethical-rtd .ethical-sidebar a:active {color: #1e435e !important; }
+
+
 
 /* impostazione vecchia del testo caption menu sx che setta i colori dell'indice nel macro menù a sx */
 /* .wy-nav-side {color: #4dc6ac;} */
