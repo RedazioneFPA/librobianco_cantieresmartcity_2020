@@ -112,7 +112,7 @@ li.current > a {text-decoration: underline; color: green !important;}
 
 
 /*  mobile settings   */
-.wy-nav-top {background: #374ebf; } 
+.wy-nav-top {background-color: #374ebf; } 
 
 
 /* colore dello sfondo a dx dopo il testo, ma con il settaggio full-hd non si applica */
