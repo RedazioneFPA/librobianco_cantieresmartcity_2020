@@ -55,7 +55,10 @@ h1, h2, h3 {
 }
 
 
-/* stile pubblcitià */
+/* Blocco pbubblicita (da Gianni Vitr) */
+.wy-body-for-nav .keep-us-sustainable {color: #404040; background-color: #404040;}
+
+/* stile pubblcità (da Gianni Vitr) */
 div.ethical-text {color: #1e435e !important;}
 .ethical-sidebar .ethical-callout, .ethical-footer .ethical-callout {color: #1e435e !important;}
 .ethical-rtd .ethical-sidebar a, .ethical-rtd .ethical-sidebar a:visited, .ethical-rtd .ethical-sidebar a:hover, .ethical-rtd .ethical-sidebar a:active {color: #1e435e !important; }
