@@ -103,7 +103,7 @@ li.current > a {text-decoration: underline; color: green !important;}
 
 
 /* disativa la pubblicità di read the docs (immesso per prova il 9.12.2020)     etical-sidebar   */
-.etical-sidebar {    display: none;}
+.rtd-sidebar {    display: none;}
 
 
 
