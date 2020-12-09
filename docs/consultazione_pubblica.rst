@@ -4,9 +4,9 @@
 Consultazione Pubblica 
 #######################
 
-A partire dal 16  dicembre 2020 e fino al 12 gennaio 2021, il Libro Bianco è pubblicato e posto in consultazione pubblica online.
+A partire dal \ |STYLE0|\  e fino al \ |STYLE1|\ , il Libro Bianco è pubblicato e posto in consultazione pubblica online.
 
-In questo video viene illustrato il metodo \ |STYLE0|\  utilizzato per la consultazione e interazione sul documento. Si tratta dello stesso strumento utilizzato nel 2018 per il Libro Bianco sull'innovazione.
+In questo video viene illustrato il metodo \ |STYLE2|\  utilizzato per la consultazione e interazione sul documento. Si tratta dello stesso strumento utilizzato nel 2018 per il Libro Bianco sull'innovazione.
 
 |REPLACE1|
 
@@ -14,7 +14,11 @@ In questo video viene illustrato il metodo \ |STYLE0|\  utilizzato per la consul
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Hypotes.is**
+.. |STYLE0| replace:: **16  dicembre 2020**
+
+.. |STYLE1| replace:: **12 gennaio 2021**
+
+.. |STYLE2| replace:: **Hypotes.is**
 
 
 .. |REPLACE1| raw:: html
