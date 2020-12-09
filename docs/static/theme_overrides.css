@@ -49,16 +49,6 @@ h1, h2, h3 {
 }
 
 
-/* colore del reattangolo in alto a sinistra dove c'è il logo e il titolo del RTD su dispositivi mobili */
-.wy-nav-top {
-    background-color: #374ebf; 
-}
-
-
-
-/* Blocco pubblicità (da Gianni Vitr) */
-div#rtd-sidebar.ethical-rtd.loaded {    display: none !important;}
-
 
 
 
@@ -121,7 +111,7 @@ li.current > a {text-decoration: underline; color: green !important;}
 /*    .wy-nav-top {background: linear-gradient(#ffaf05, #ffd105); }    */
 
 /* mobile settings */
-.wy-nav-top {background: #85a292; }
+.wy-nav-top {background: #374ebf; }
 
 /* colore dello sfondo a dx dopo il testo, ma con il settaggio full-hd non si applica */
 .wy-body-for-nav {background: #ffffff; }
