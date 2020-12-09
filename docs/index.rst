@@ -7,7 +7,7 @@ Presentazione del Libro Bianco per le smart cities 2020
 
 |REPLACE1|
 
-Il :guilabel:`Libro Bianco per le smart cities` è il risultato di un percorso ``collaborativo`` promosso da \ |LINK1|\  con l’obiettivo di costruire …
+Il :guilabel:`Libro Bianco per le smart cities` è il risultato di un percorso di analisi e approfondimento promosso nel corso del 2020 da \ |LINK1|\  e dedicato alle città e alla loro capacità di risposta all’emergenza. L’obiettivo è stato quello di individuare e definire problemi e potenzialità comuni ai diversi territori, attraverso il confronto tra decision maker e stakeholder delle principali amministrazioni locali, al fine di definire i percorsi e gli strumenti necessari a supportare processi decisionali delle amministrazioni locali.   
 
 --------
 
@@ -50,7 +50,7 @@ Il :guilabel:`Libro Bianco per le smart cities` è il risultato di un percorso `
 
 .. |REPLACE1| raw:: html
 
-    <span style="background-color:#1b70c4; color: #ffffff; display: inline-block; padding: 1px 7px; border-radius: 4px;">Un'iniziativa a cura della Redazione Cantieri di FPA</span> 
+    <span style="background-color:#1b70c4; color: #ffffff; display: inline-block; padding: 1px 7px; border-radius: 4px;">Un'iniziativa a cura di FPA</span> 
     <img src="https://img.shields.io/github/last-commit/RedazioneFPA/librobianco_cantieresmartcity_2020.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=blue" />
     </br>
     <div style="width: 800px; height: 650px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99"></div>
