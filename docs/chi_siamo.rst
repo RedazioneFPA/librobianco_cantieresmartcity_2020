@@ -9,15 +9,15 @@ Team redazionale del Libro Bianco
 
 .. admonition:: Team redazionale
 
-    * Gianni Dominici, Direttore generale FPA
+    * \ |STYLE0|\ , Direttore generale FPA
     
-    * Daniele Fichera, Senior Consulting Urban Innovation FPA
+    * \ |STYLE1|\ , Senior Consulting Urban Innovation FPA
     
-    * Clara Musacchio, Smart City & Community FPA
+    * \ |STYLE2|\ , Smart City & Community FPA
     
-    * Eleonora Bove, Senior Content Manager FPA
+    * \ |STYLE3|\ , Senior Content Manager FPA
     
-    \ |LINK1|\ , elaborazione per la visualizzazione dei testi su ``Read the Docs``, gestione del progetto su Github, predisposizione piattaforma hypothes.is per la partecipazione.
+    \ |LINK1|\ , elaborazione per la visualizzazione dei testi su :guilabel:`Read the Docs`, gestione del progetto su Github, predisposizione piattaforma hypothes.is per la partecipazione.
 
 .. _h1d445122d6a85e43702145916035:
 
@@ -26,13 +26,13 @@ FPA
 
 \ |LINK2|\  è la società del Gruppo Digital 360, che da più di 30 anni favorisce l’incontro e la collaborazione tra pubblica amministrazione, imprese, mondo della ricerca e società civile. FPA svolge il suo ruolo di accompagnamento all’innovazione tecnologica, istituzionale e organizzativa attraverso:
 
-* \ |STYLE0|\ , per favorire relazioni e partnership tra amministratori, referenti politici, aziende, cittadinanza organizzata;
+* \ |STYLE4|\ , per favorire relazioni e partnership tra amministratori, referenti politici, aziende, cittadinanza organizzata;
 
-* \ |STYLE1|\  delle amministrazioni e dei soggetti coinvolti nei processi di modernizzazione della PA: imprese, soggetti intermedi, cittadini;
+* \ |STYLE5|\  delle amministrazioni e dei soggetti coinvolti nei processi di modernizzazione della PA: imprese, soggetti intermedi, cittadini;
 
-* \ |STYLE2|\  per individuare, studiare e promuovere l’applicazione di nuovi modelli di governance;
+* \ |STYLE6|\  per individuare, studiare e promuovere l’applicazione di nuovi modelli di governance;
 
-* \ |STYLE3|\  sviluppate da imprese e amministrazioni, con lo scopo di favorire la diffusione e il riuso.
+* \ |STYLE7|\  sviluppate da imprese e amministrazioni, con lo scopo di favorire la diffusione e il riuso.
 
 .. _h7c113239276e3c5034161e53184e257b:
 
@@ -179,13 +179,21 @@ Documenti Societari
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Networking**
+.. |STYLE0| replace:: **Gianni Dominici**
 
-.. |STYLE1| replace:: **Capacity building**
+.. |STYLE1| replace:: **Daniele Fichera**
 
-.. |STYLE2| replace:: **Rappresentazione dei fenomeni emergenti**
+.. |STYLE2| replace:: **Clara Musacchio**
 
-.. |STYLE3| replace:: **Valorizzazione delle best practice**
+.. |STYLE3| replace:: **Eleonora Bove**
+
+.. |STYLE4| replace:: **Networking**
+
+.. |STYLE5| replace:: **Capacity building**
+
+.. |STYLE6| replace:: **Rappresentazione dei fenomeni emergenti**
+
+.. |STYLE7| replace:: **Valorizzazione delle best practice**
 
 
 .. |LINK1| raw:: html
