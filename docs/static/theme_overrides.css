@@ -51,7 +51,7 @@ h1, h2, h3 {
 
 /* colore del reattangolo in alto a sinistra dove c'è il logo e il titolo del RTD su dispositivi mobili */
 .wy-nav-top {
-    color: #374ebf; 
+    background-color: #374ebf; 
 }
 
 
