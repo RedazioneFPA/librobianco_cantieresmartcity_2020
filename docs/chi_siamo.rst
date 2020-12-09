@@ -17,14 +17,14 @@ Team redazionale del Libro Bianco
     
     * \ |STYLE3|\ , Senior Content Manager FPA
     
-    \ |LINK1|\ , elaborazione per la visualizzazione dei testi su :guilabel:`Read the Docs`, gestione del progetto su Github, predisposizione piattaforma hypothes.is per la partecipazione.
+    \ |LINK1|\ , elaborazione per la visualizzazione dei testi su :guilabel:`Read the Docs`, gestione del progetto su \ |LINK2|\ , predisposizione per l'uso di Hypothes.is per la partecipazione.
 
 .. _h1d445122d6a85e43702145916035:
 
 FPA
 ===
 
-\ |LINK2|\  è la società del Gruppo Digital 360, che da più di 30 anni favorisce l’incontro e la collaborazione tra pubblica amministrazione, imprese, mondo della ricerca e società civile. FPA svolge il suo ruolo di accompagnamento all’innovazione tecnologica, istituzionale e organizzativa attraverso:
+\ |LINK3|\  è la società del Gruppo Digital 360, che da più di 30 anni favorisce l’incontro e la collaborazione tra pubblica amministrazione, imprese, mondo della ricerca e società civile. FPA svolge il suo ruolo di accompagnamento all’innovazione tecnologica, istituzionale e organizzativa attraverso:
 
 * \ |STYLE4|\ , per favorire relazioni e partnership tra amministratori, referenti politici, aziende, cittadinanza organizzata;
 
@@ -171,9 +171,9 @@ Per far questo Digital360 integra un mix multisciplinare e multiculturale di pro
 Documenti Societari
 ===================
 
-\ |LINK3|\ 
-
 \ |LINK4|\ 
+
+\ |LINK5|\ 
 
 
 .. bottom of content
@@ -202,13 +202,17 @@ Documenti Societari
 
 .. |LINK2| raw:: html
 
-    <a href="http://www.forumpa.it/" target="_blank">FPA</a>
+    <a href="https://github.com/RedazioneFPA/librobianco_cantieresmartcity_2020" target="_blank">Github</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://profilo.forumpa.it/wp-content/uploads/2018/03/FPA_Codice_Etico_DEF.pdf" target="_blank">Codice Etico di Gruppo</a>
+    <a href="http://www.forumpa.it/" target="_blank">FPA</a>
 
 .. |LINK4| raw:: html
+
+    <a href="https://profilo.forumpa.it/wp-content/uploads/2018/03/FPA_Codice_Etico_DEF.pdf" target="_blank">Codice Etico di Gruppo</a>
+
+.. |LINK5| raw:: html
 
     <a href="https://profilo.forumpa.it/wp-content/uploads/2018/03/FPA_Modello_Organizzativo_PARTE_GENERALE_DEF.pdf" target="_blank">Modello di Organizzazione, Gestione e Controllo</a>
 
