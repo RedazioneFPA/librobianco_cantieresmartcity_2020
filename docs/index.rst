@@ -53,7 +53,7 @@ Il :guilabel:`Libro Bianco per le smart cities` è il risultato di un percorso d
     <span style="background-color:#1b70c4; color: #ffffff; display: inline-block; padding: 1px 7px; border-radius: 4px;">Un'iniziativa a cura di FPA</span> 
     <img src="https://img.shields.io/github/last-commit/RedazioneFPA/librobianco_cantieresmartcity_2020.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=blue" />
     </br>
-    <div style="width: 800px; height: 650px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99"></div>
+    <div style="width: 6500px; height: 450px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99"></div>
 
 .. |LINK1| raw:: html
 
