@@ -9,9 +9,13 @@ Team redazionale del Libro Bianco
 
 .. admonition:: Team redazionale
 
-    * nome cognome, ruolo
+    * Gianni Dominici, Direttore generale FPA
     
-    * nome cognome, ruolo
+    * Daniele Fichera, Senior Consulting Urban Innovation FPA
+    
+    * Clara Musacchio, Smart City & Community FPA
+    
+    * Eleonora Bove, Senior Content Manager FPA
     
     \ |LINK1|\ , elaborazione per la visualizzazione dei testi su ``Read the Docs``, gestione del progetto su Github, predisposizione piattaforma hypothes.is per la partecipazione.
 
@@ -20,7 +24,7 @@ Team redazionale del Libro Bianco
 FPA
 ===
 
-\ |LINK2|\  è la società del Gruppo Digital 360, che da 29 anni favorisce l’incontro e la collaborazione tra pubblica amministrazione, imprese, mondo della ricerca e società civile. FPA svolge il suo ruolo di accompagnamento all’innovazione tecnologica, istituzionale e organizzativa attraverso:
+\ |LINK2|\  è la società del Gruppo Digital 360, che da più di 30 anni favorisce l’incontro e la collaborazione tra pubblica amministrazione, imprese, mondo della ricerca e società civile. FPA svolge il suo ruolo di accompagnamento all’innovazione tecnologica, istituzionale e organizzativa attraverso:
 
 * \ |STYLE0|\ , per favorire relazioni e partnership tra amministratori, referenti politici, aziende, cittadinanza organizzata;
 
@@ -28,7 +32,7 @@ FPA
 
 * \ |STYLE2|\  per individuare, studiare e promuovere l’applicazione di nuovi modelli di governance;
 
-* \ |STYLE3|\  sviluppate da imprese e amministrazioni, con lo scopo di favorirne la diffusione e il riuso.
+* \ |STYLE3|\  sviluppate da imprese e amministrazioni, con lo scopo di favorire la diffusione e il riuso.
 
 .. _h7c113239276e3c5034161e53184e257b:
 
@@ -61,7 +65,7 @@ Comunicazione
 
 Portali on line : FPA attraverso forumpa.it genera un traffico di oltre 63.000 unique visitors al mese, per un totale di circa 265.000 visualizzazioni di pagina;
 
-Newsletter: FPA NET, con oltre 75.000 iscritti, è il punto di riferimento degli operatori del settore pe rl’approfondimento e l’aggiornamento di buone prassi di innovazione tecnologica, organizzativa ed istituzionale;
+Newsletter: FPA NET, con oltre 75.000 iscritti, è il punto di riferimento degli operatori del settore per l’approfondimento e l’aggiornamento di buone prassi di innovazione tecnologica, organizzativa ed istituzionale;
 
 Direct Email Marketing: DEM indirizzate a target selezionati, individuati all’interno della più ampia e completa banca dati della PA: oltre 100.000 profili di dirigenti pubblici centrali e locali e stakeholder istituzionali;
 
