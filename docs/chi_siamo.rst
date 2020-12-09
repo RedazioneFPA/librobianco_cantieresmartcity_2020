@@ -7,6 +7,9 @@ Chi siamo
 Team redazionale del Libro Bianco
 
 
+|REPLACE1|
+
+
 .. admonition:: Team redazionale
 
     * Gianni Dominici, Direttore generale FPA
@@ -187,6 +190,10 @@ Documenti Societari
 
 .. |STYLE3| replace:: **Valorizzazione delle best practice**
 
+
+.. |REPLACE1| raw:: html
+
+    <div style="width: 450px; height: 350px;" data-wordart-src="//cdn.wordart.com/json/wzis036bx2wr"></div>
 
 .. |LINK1| raw:: html
 
