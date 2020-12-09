@@ -111,8 +111,8 @@ li.current > a {text-decoration: underline; color: green !important;}
 /*    .wy-nav-top {background: linear-gradient(#ffaf05, #ffd105); }    */
 
 
-/* mobile settings  (Provo a spegnere il colore  nav-top su mobile)    */
-/* .wy-nav-top {background: #374ebf; } */
+/*  mobile settings   */
+.wy-nav-top {background: #374ebf; } 
 
 
 /* colore dello sfondo a dx dopo il testo, ma con il settaggio full-hd non si applica */
