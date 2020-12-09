@@ -193,7 +193,7 @@ Documenti Societari
 
 .. |REPLACE1| raw:: html
 
-    <div style="width: 450px; height: 350px;" data-wordart-src="//cdn.wordart.com/json/wzis036bx2wr"></div>
+    <div style="width: 550px; height: 350px;" data-wordart-src="//cdn.wordart.com/json/wzis036bx2wr"></div>
 
 .. |LINK1| raw:: html
 
