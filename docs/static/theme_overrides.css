@@ -56,8 +56,8 @@ h1, h2, h3 {
 
 
 
-/* stile pubblcità (da Gianni Vitr) */
-div.ethical-sidebar {    display: none !important;}
+/* Blocco pubblicità (da Gianni Vitr) */
+div#rtd-sidebar.ethical-rtd.loaded {    display: none !important;}
 
 
 
