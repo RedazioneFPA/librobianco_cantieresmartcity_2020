@@ -11,6 +11,11 @@ Il :guilabel:`Libro Bianco per le smart cities` è il risultato di un percorso d
 
 --------
 
+.. toctree::
+  :maxdepth: 2
+
+  Home <https://libro-bianco-cantiere-smartcity-fpa-2020.readthedocs.io/>
+
 
 .. toctree:: 
     :maxdepth: 3
