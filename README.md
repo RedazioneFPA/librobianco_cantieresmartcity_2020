@@ -4,6 +4,6 @@
 
 Link al [Libro Bianco](https://librobianco-responsive-city-fpa-2020.readthedocs.io)
 
-Licenza dei contenuti di questo repository: Creative Commons BY SA NC 
+Licenza dei contenuti di questo repository: Creative Commons CC BY SA NC 
 
 
