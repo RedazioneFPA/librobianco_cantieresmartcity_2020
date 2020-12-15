@@ -38,7 +38,7 @@ Gli strumenti individuati per consolidare nel futuro una relazione più articola
 L’uso della città
 *****************
 
-Modelli di attività e dislocazione delle attività
+:class:`Modelli di attività e dislocazione delle attività`
 
 Il secondo ambito di riflessione e di intervento è quello dei \ |STYLE5|\  del territorio cittadino, in proporzioni differenti, pianificati o spontanei, ma comunque appoggiati su dinamiche estensive e intensive di mobilità (quella residenza-lavoro ma anche quelle legate all’accesso ai servizi o alla relazionalità) che nei mesi della crisi sono venute meno evidenziando la necessità di proseguire non solo i percorsi di incentivazione delle varie forme di \ |STYLE6|\  ma anche il ripensamento della distribuzione spaziale degli spazi e dei servizi urbani.
 
@@ -59,7 +59,7 @@ Un riferimento diretto alla città dei 15’ è rinvenibile anche nel \ |STYLE16
 La città condivisa
 ******************
 
-Collaborative governance e partecipazione dei cittadini al governo urbano
+:class:`Collaborative governance e partecipazione dei cittadini al governo urbano`
 
 Il quarto ambito di considerazione dei processi e delle vocazioni di innovazione urbana è quello della \ |STYLE17|\  tra amministrazioni, cittadini, operatori economici e gestori dei servizi. Anche questa dimensione si è dimostrata cruciale nelle circostanze di emergenza e risulta fondamentale sia nella gestione ordinaria della città, sia nella effettuazione delle scelte strategiche.
 
@@ -91,6 +91,8 @@ Si tratta della promozione di un modello di \ |STYLE25|\  aperto e partecipato c
 
 Conoscere la città e intervenire (consapevolmente e tempestivamente)
 ********************************************************************
+
+:class:`Sistemi integrati di monitoraggio`
 
 Sistemi integrati di monitoraggio del territorio
 
