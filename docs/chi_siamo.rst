@@ -4,7 +4,7 @@
 Chi siamo
 #########
 
-Team redazionale del Libro Bianco
+Team redazionale del Libro Bianco Responsive Cities 2020 di FPA
 
 
 |REPLACE1|
