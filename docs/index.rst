@@ -1,13 +1,13 @@
 
-.. _h141b3b216049517c47357764123e7029:
+.. _h295a7c636759314b6c6e32d5f6e834:
 
-Presentazione del Libro Bianco per le smart cities 2020
-#######################################################
+Presentazione del Libro Bianco delle Responsive Cities 2020 di FPA
+##################################################################
 
 
 |REPLACE1|
 
-Il :guilabel:`Libro Bianco per le smart cities` è il risultato di un percorso di analisi e approfondimento promosso nel corso del 2020 da \ |LINK1|\  e dedicato alle città e alla loro capacità di risposta all’emergenza. L’obiettivo è stato quello di individuare e definire problemi e potenzialità comuni ai diversi territori, attraverso il confronto tra decision maker e stakeholder delle principali amministrazioni locali, al fine di definire i percorsi e gli strumenti necessari a supportare processi decisionali delle amministrazioni locali.   
+Il :guilabel:`Libro Bianco delle Responsive Cities 2020` è il risultato di un percorso di analisi e approfondimento promosso nel corso del 2020 da \ |LINK1|\  e dedicato alle città e alla loro capacità di risposta all’emergenza sanitaria. L’obiettivo è stato quello di individuare e definire problemi e potenzialità comuni ai diversi territori, attraverso il confronto tra decision maker e stakeholder delle principali amministrazioni locali, al fine di definire percorsi e strumenti necessari a supportare processi decisionali delle amministrazioni locali.
 
 --------
 
