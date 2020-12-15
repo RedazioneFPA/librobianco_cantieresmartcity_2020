@@ -58,5 +58,5 @@ Se non ora quando? Quando si avrà di nuovo l’opportunità di investire risors
 
 .. |LINK4| raw:: html
 
-    <a href="https://hypothes.is/stream.rss?uri=https://libro-bianco-cantiere-smartcity-fpa-2020.readthedocs.io/it/latest/3.Capitolo.html" target="_blank">Flusso XML dei commenti su questa pagina</a>
+    <a href="https://hypothes.is/stream.rss?uri=https://librobianco-responsive-city-fpa-2020.readthedocs.io/it/latest/3.Capitolo.html" target="_blank">Flusso XML dei commenti su questa pagina</a>
 
