@@ -2,6 +2,8 @@
 
 ## a cura di FPA
 
-Licenza dei contenuti di questo repository: Creative Commons BY (attribuzione)
+Link al [Libro Bianco](https://librobianco-responsive-city-fpa-2020.readthedocs.io)
+
+Licenza dei contenuti di questo repository: Creative Commons BY SA NC 
 
 
