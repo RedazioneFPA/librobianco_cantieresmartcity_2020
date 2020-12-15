@@ -88,7 +88,7 @@ La questione, quindi, non dovrebbe essere “se” investire sulle città, ma �
 
 .. |LINK2| raw:: html
 
-    <a href="https://hypothes.is/stream.rss?uri=https://libro-bianco-cantiere-smartcity-fpa-2020.readthedocs.io/it/latest/1.Capitolo.html" target="_blank">Flusso XML dei commenti su questa pagina</a>
+    <a href="https://hypothes.is/stream.rss?uri=https://librobianco-responsive-city-fpa-2020.readthedocs.io/it/latest/1.Capitolo.html" target="_blank">Flusso XML dei commenti su questa pagina</a>
 
 
 
