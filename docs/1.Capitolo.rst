@@ -6,9 +6,9 @@ Un anno diverso
 
 Gli impatti dell’emergenza da Coronavirus - quella che, secondo l’OCSE è stata la terza più grave crisi del 21° secolo, dopo l’11 settembre e dopo la crisi finanziaria globale del 2008 - si sono riversati in misura dirompente sulle città e sui territori, come dimostrato dalle geografie di diffusione della pandemia e dagli impatti economici e sociali derivanti dalle misure introdotte per il contenimento del contagio.
 
-Alcune città sono state colpite in modo profondo dall’epidemia (nei territori ad alta diffusione dell’epidemia si sono registrati incrementi in percentuale dei decessi rispetto alla media del periodo 2015-2019 a 3 cifre[1]) e tutte hanno risentito delle misure adottate per contrastarla, subendo in modo particolarmente accentuato le limitazioni alla mobilità e alle relazioni: la drammatica crisi dei settori commerciali, turistici e relazionali (cultura, intrattenimento) ne è solo l’aspetto più evidente.
+Alcune città sono state colpite in modo profondo dall’epidemia (nei territori ad alta diffusione dell’epidemia si sono registrati incrementi in percentuale dei decessi rispetto alla media del periodo 2015-2019 a 3 cifre\ [#F1]_\ ) e tutte hanno risentito delle misure adottate per contrastarla, subendo in modo particolarmente accentuato le limitazioni alla mobilità e alle relazioni: la drammatica crisi dei settori commerciali, turistici e relazionali (cultura, intrattenimento) ne è solo l’aspetto più evidente.
 
-Dal confronto con i sindaci e con gli amministratori locali realizzato da FPA nel corso degli appuntamenti e degli eventi dedicati alle città nel 2020[2] è emerso che, di fronte all’ondata emergenziale, le principali \ |STYLE0|\  che hanno consentito la continuità dell’attività amministrativa e la tenuta stessa degli enti locali sono state, soprattutto, le \ |STYLE1|\  e il \ |STYLE2|\ .
+Dal confronto con i sindaci e con gli amministratori locali realizzato da FPA nel corso degli appuntamenti e degli eventi dedicati alle città nel 2020\ [#F2]_\  è emerso che, di fronte all’ondata emergenziale, le principali \ |STYLE0|\  che hanno consentito la continuità dell’attività amministrativa e la tenuta stessa degli enti locali sono state, soprattutto, le \ |STYLE1|\  e il \ |STYLE2|\ .
 
 La \ |STYLE3|\  delle forze di protezione civile e del volontariato è stata riconosciuta all’unanimità come una risorsa aggiuntiva, ma essenziale, per raggiungere e sostenere la popolazione più colpita o più esposta agli effetti della pandemia.
 
@@ -27,10 +27,6 @@ Che la ripresa del Paese dopo il terribile impatto sociale ed economico dell’e
 La questione, quindi, non dovrebbe essere “se” investire sulle città, ma “quanto” e, soprattutto, “come”.
 
 --------
-
-[1] +568% a Bergamo, +401% a Cremona, +377% a Lodi, +291% a Brescia, +264% a Piacenza, +208% a Parma, +174% a Lecco, +133% a Pavia, del +122% a Mantova, del +120% a Pesaro e Urbino (dati Istat, 2020).
-
-[2] Dall’evento dedicato alle città di “Forum PA/resilienza digitale” del 9 luglio, ai 3 appuntamenti sui “Cantieri della Smart City” di giugno, settembre e novembre, all’incontro nell’ambito di Modena Smart Life del 25 settembre, all’evento dedicato alle città nell’ambito di Forum PA/Restart Italia del 4 novembre 2020.
 
 --------
 
@@ -96,3 +92,9 @@ La questione, quindi, non dovrebbe essere “se” investire sulle città, ma �
 
     <a href="https://hypothes.is/stream.rss?uri=https://libro-bianco-cantiere-smartcity-fpa-2020.readthedocs.io/it/latest/1.Capitolo.html" target="_blank">Flusso XML dei commenti su questa pagina</a>
 
+
+
+.. rubric:: Footnotes
+
+.. [#f1]  +568% a Bergamo, +401% a Cremona, +377% a Lodi, +291% a Brescia, +264% a Piacenza, +208% a Parma, +174% a Lecco, +133% a Pavia, del +122% a Mantova, del +120% a Pesaro e Urbino (dati Istat, 2020).
+.. [#f2]  Dall’evento dedicato alle città di “Forum PA/resilienza digitale” del 9 luglio, ai 3 appuntamenti sui “Cantieri della Smart City” di giugno, settembre e novembre, all’incontro nell’ambito di Modena Smart Life del 25 settembre, all’evento dedicato alle città nell’ambito di Forum PA/Restart Italia del 4 novembre 2020.
