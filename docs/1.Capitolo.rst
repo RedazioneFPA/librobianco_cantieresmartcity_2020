@@ -1,17 +1,98 @@
 
-.. _h742063361b57323b37271282d2e38d:
+.. _h6a6b3f1c87e702d41227c122b68638:
 
-Dimensione 1
-############
+Un anno diverso
+###############
+
+Gli impatti dell’emergenza da Coronavirus - quella che, secondo l’OCSE è stata la terza più grave crisi del 21° secolo, dopo l’11 settembre e dopo la crisi finanziaria globale del 2008 - si sono riversati in misura dirompente sulle città e sui territori, come dimostrato dalle geografie di diffusione della pandemia e dagli impatti economici e sociali derivanti dalle misure introdotte per il contenimento del contagio.
+
+Alcune città sono state colpite in modo profondo dall’epidemia (nei territori ad alta diffusione dell’epidemia si sono registrati incrementi in percentuale dei decessi rispetto alla media del periodo 2015-2019 a 3 cifre[1]) e tutte hanno risentito delle misure adottate per contrastarla, subendo in modo particolarmente accentuato le limitazioni alla mobilità e alle relazioni: la drammatica crisi dei settori commerciali, turistici e relazionali (cultura, intrattenimento) ne è solo l’aspetto più evidente.
+
+Dal confronto con i sindaci e con gli amministratori locali realizzato da FPA nel corso degli appuntamenti e degli eventi dedicati alle città nel 2020[2] è emerso che, di fronte all’ondata emergenziale, le principali \ |STYLE0|\  che hanno consentito la continuità dell’attività amministrativa e la tenuta stessa degli enti locali sono state, soprattutto, le \ |STYLE1|\  e il \ |STYLE2|\ .
+
+La \ |STYLE3|\  delle forze di protezione civile e del volontariato è stata riconosciuta all’unanimità come una risorsa aggiuntiva, ma essenziale, per raggiungere e sostenere la popolazione più colpita o più esposta agli effetti della pandemia.
+
+Al contempo, il digitale ha reso possibili, trasversalmente, tutte le azioni e le iniziative attivate: dalla gestione dei processi interni alla macchina amministrativa all’erogazione dei servizi ai cittadini, alla comunicazione e condivisione dei processi.
+
+Sul fronte della \ |STYLE4|\  è emersa con molta chiarezza \ |STYLE5|\ : si pensi all’affannosa ricerca di dati credibili sull’andamento della mobilità o alla sperimentazione di modalità innovative per l’individuazione degli “assembramenti”.
+
+Digitale e solidarietà hanno abilitato e dato concreta attuazione agli altri “ingredienti” della “\ |STYLE6|\ ”: la \ |STYLE7|\ , per la messa in campo di soluzioni rapide, originali, in condizioni di generale carenza di risorse; l’\ |STYLE8|\  delle esigenze e delle domande del territorio; la \ |STYLE9|\  \ |STYLE10|\  con il proprio personale, \ |STYLE11|\  con gli altri livelli di governo e \ |STYLE12|\  con le forze del territorio; la \ |STYLE13|\ : «i Comuni», ha sottolineato Antonio Decaro nel corso dell’incontro a \ |STYLE14|\  del 25 settembre, «hanno abdicato – responsabilmente – all’autorità che l’art. 50 del TUEL conferisce loro in materia sanitaria, cedendo al governo centrale e alle regioni un’intera parte del proprio potere e della propria autonomia, per evitare il rischio che 8.000 centri decisionali diversi vanificassero lo sforzo collettivo di contrasto al COVID-19».
+
+Le indagini e le rilevazioni effettuate da FPA – soprattutto: \ |LINK1|\  nella sua “\ |STYLE15|\ ”– hanno dato effettivamente evidenza dell’\ |STYLE16|\ . Evidentemente i limiti alla mobilità e ai contatti fisici hanno consentito di vincere molte resistenze non solo \ |STYLE17|\  ma anche \ |STYLE18|\  da parte dei cittadini (facilitato dalla progressiva diffusione delle piattaforme tecnologiche standardizzate come Spid o Pagopa) e \ |STYLE19|\  (crescita dell’uso dei social media e delle app di pubblico interesse per dispositivi mobili). 
+
+Di fronte alla permanenza del tema delle \ |STYLE20|\  il problema cruciale che oggi si pone con forza a livello urbano è quello della \ |STYLE21|\ , sia all’interno delle amministrazioni (in termini di \ |STYLE22|\  e di \ |STYLE23|\ ) sia tra i cittadini.
+
+Che la ripresa del Paese dopo il terribile impatto sociale ed economico dell’epidemia Covid 19 abbia tra le direttrici fondamentali il rilancio dei centri urbani non dovrebbe essere oggetto di discussione: nei Paesi avanzati è il dinamismo dei sistemi urbani a determinare il ritmo di crescita dell’intera economia. 
+
+La questione, quindi, non dovrebbe essere “se” investire sulle città, ma “quanto” e, soprattutto, “come”.
 
 --------
 
-\ |LINK1|\ .
+[1] +568% a Bergamo, +401% a Cremona, +377% a Lodi, +291% a Brescia, +264% a Piacenza, +208% a Parma, +174% a Lecco, +133% a Pavia, del +122% a Mantova, del +120% a Pesaro e Urbino (dati Istat, 2020).
+
+[2] Dall’evento dedicato alle città di “Forum PA/resilienza digitale” del 9 luglio, ai 3 appuntamenti sui “Cantieri della Smart City” di giugno, settembre e novembre, all’incontro nell’ambito di Modena Smart Life del 25 settembre, all’evento dedicato alle città nell’ambito di Forum PA/Restart Italia del 4 novembre 2020.
+
+--------
+
+\ |LINK2|\ .
 
 .. bottom of content
 
 
+.. |STYLE0| replace:: **leve**
+
+.. |STYLE1| replace:: **reti di collaborazione**
+
+.. |STYLE2| replace:: **digitale**
+
+.. |STYLE3| replace:: **mobilitazione – straordinaria e inattesa – degli attori del terzo settore,**
+
+.. |STYLE4| replace:: **organizzazione e gestione urbane**
+
+.. |STYLE5| replace:: **l’importanza degli strumenti di monitoraggio e controllo dei servizi e quella della loro integrazione**
+
+.. |STYLE6| replace:: **resilienza amministrativa locale**
+
+.. |STYLE7| replace:: **creatività**
+
+.. |STYLE8| replace:: **ascolto**
+
+.. |STYLE9| replace:: **connessione**
+
+.. |STYLE10| replace:: *interna*
+
+.. |STYLE11| replace:: *esterna*
+
+.. |STYLE12| replace:: *orizzontale*
+
+.. |STYLE13| replace:: **responsabilità**
+
+.. |STYLE14| replace:: **Modena Smart Life**
+
+.. |STYLE15| replace:: *special edition*
+
+.. |STYLE16| replace:: **importante accelerazione dei processi di trasformazione digitale**
+
+.. |STYLE17| replace:: **nell’attuazione di forme di smart working**
+
+.. |STYLE18| replace:: **nell’implementazione dell’accesso on line ai servizi**
+
+.. |STYLE19| replace:: **nell’utilizzo di modalità di comunicazione bilaterale**
+
+.. |STYLE20| replace:: **disparità territoriali e delle aree deboli - da affrontare con un’azione sistemica che riguarda anche i progetti di infrastrutturazione nazionale in corso -**
+
+.. |STYLE21| replace:: **diffusione di una cultura digitale**
+
+.. |STYLE22| replace:: **competenze**
+
+.. |STYLE23| replace:: **organizzazione**
+
+
 .. |LINK1| raw:: html
+
+    <a href="https://convegni2020.eventifpa.it/it/event-details/?id=9765" target="_blank">ICity Rank 2020</a>
+
+.. |LINK2| raw:: html
 
     <a href="https://hypothes.is/stream.rss?uri=https://libro-bianco-cantiere-smartcity-fpa-2020.readthedocs.io/it/latest/1.Capitolo.html" target="_blank">Flusso XML dei commenti su questa pagina</a>
 
