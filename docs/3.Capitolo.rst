@@ -1,17 +1,62 @@
 
-.. _h7c2362641643573c6e4838634a287e18:
+.. _h6c6f4e5a651d767e612d10b7b475779:
 
-Dimensione 3
-############
+Le opportunità per le città
+###########################
+
+La dimensione degli impatti sociali ed economici dell’epidemia da COVID-19, la particolare esposizione di regioni e territori a trazione economica solida (si pensi, per l’Italia, alle regioni della Lombardia, del Veneto, dell’Emilia Romagna), hanno aperto \ |STYLE0|\  conseguito fino all’emergenza e sui valori e principi da infondere nel \ |STYLE1|\ .
+
+Riflettere sul futuro delle città significa riflettere sul modello di sviluppo che ogni comunità, a tutti livelli, intende perseguire, e questo richiede un quadro di riferimento e obiettivi chiari per guidare un’azione convergente da parte di tutti gli attori sociali, economici e istituzionali.
+
+Da questo punto di vista è indubbio che, ad oggi, \ |STYLE2|\  (209 miliardi per l’Italia di cui 82 in sussidi e 127 in prestiti), \ |STYLE3|\  (la commissione UE ha chiesto di investire almeno il 37% del Recovery Fund per realizzare il Green New Deal con l’obiettivo di ridurre le emissioni per il 2030 dal 40% al 55% e di definire un piano comune per l’Europa digitale con obiettivi chiaramente definiti per il 2030 in ambiti come la connettività, le competenze e i servizi pubblici digitali finanziato con il 20% del bilancio di Next Generation EU) e \ |STYLE4|\  rappresentano il principale quadro dentro il quale questo modello di sviluppo andrà pensato e attuato.
+
+Tutte le sei missioni del \ |LINK1|\  – \ |STYLE5|\  -  a loro volta raggruppate in componenti o insiemi di progetti omogenei, impattano sulle città e sui territori.
+
+Non solo. Come evidenziato in un \ |LINK2|\  di Carlo Mochi Sismondi sulle pagine online di FPA, nel PNRR quasi tutte le 10 priorità individuate da ANCI in \ |LINK3|\  risultano recepite «ma ciò che forse manca è una politica urbana integrata di cui le nostre città e le nostre comunità avrebbero bisogno», mentre «appare sottovalutata la responsabilità locale nell’ambito della \ |STYLE6|\  nel piano», sebbene si sia consapevoli di quanto questo tema, ad oggi, sia molto spinoso.
+
+L’anno della pandemia ha mostrato capacità di reazione ed eccellenze portatrici di valori trainanti, ma non sufficienti a “fare sistema”. Per questo occorrerebbe che le città e i territori risultassero al centro dell’agenda politica nazionale e che fossero oggetto di un piano sistemico con una una dimensione finanziaria adeguata a sostenere, in tutti i sistemi urbani italiani, sia i necessari interventi \ |STYLE7|\  (infrastrutturali) sia i fondamentali interventi \ |STYLE8|\  (sistemi di generazione, acquisizione ed elaborazione dei dati e le loro integrazioni; nuove competenze digitali).
+
+Se non ora quando? Quando si avrà di nuovo l’opportunità di investire risorse in misura così cospicua come nei prossimi anni?  E quando si avrà di nuovo l’opportunità di intercettare una trasformazione epocale nel momento in cui si sta effettivamente determinando?
 
 --------
 
-\ |LINK1|\ .
+\ |LINK4|\ .
 
 .. bottom of content
 
 
+.. |STYLE0| replace:: **uno spaccato di profonda riflessione presso le istituzioni, il mondo della ricerca, del lavoro e dell’opinione pubblica, sull’adeguatezza del modello di sviluppo**
+
+.. |STYLE1| replace:: *new normal*
+
+.. |STYLE2| replace:: **le risorse messe in campo con il Recovery Fund**
+
+.. |STYLE3| replace:: **i pilastri politici dettati a livello UE**
+
+.. |STYLE4| replace:: **il Piano Nazionale di Ripresa e Resilienza**
+
+.. |STYLE5| replace:: *digitalizzazione, innovazione, competitività e cultura; rivoluzione verde e transizione ecologica; infrastrutture per una mobilità sostenibile; istruzione e ricerca; parità di genere, coesione sociale e territoriale; salute*
+
+.. |STYLE6| replace:: *governance*
+
+.. |STYLE7| replace:: *hard*
+
+.. |STYLE8| replace:: *soft*
+
+
 .. |LINK1| raw:: html
+
+    <a href="https://www.corriere.it/economia/tasse/20_dicembre_07/pnrrbozzapercdm7dic2020-7908fa02-3898-11eb-a3d9-f53ec54e3a0b.shtml" target="_blank">Piano Nazionale di Ripresa e Resilienza</a>
+
+.. |LINK2| raw:: html
+
+    <a href="https://www.forumpa.it/citta-territori/le-citta-e-i-territori-devono-essere-al-centro-del-piano-di-ripresa-e-resilienza/" target="_blank">recente editoriale</a>
+
+.. |LINK3| raw:: html
+
+    <a href="http://www.anci.it/wp-content/uploads/doc-audizione-senato-recovery-fund-28-settembre-2020.pdf" target="_blank">questo documento sulle linee guida per il Recovery Fund</a>
+
+.. |LINK4| raw:: html
 
     <a href="https://hypothes.is/stream.rss?uri=https://libro-bianco-cantiere-smartcity-fpa-2020.readthedocs.io/it/latest/3.Capitolo.html" target="_blank">Flusso XML dei commenti su questa pagina</a>
 
