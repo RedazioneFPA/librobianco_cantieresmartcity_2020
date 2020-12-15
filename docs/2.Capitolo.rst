@@ -4,10 +4,10 @@
 Quattro ambiti di riflessione e intervento
 ##########################################
 
-.. _h753884d4452b5e276246763d10643a:
+.. _h54103a5792f24532a4de6926354b3:
 
-La città fragile
-****************
+1- La città fragile
+*******************
 
 :class:`Monitoraggio e gestione delle debolezze sociali e funzionali urbane`
 
@@ -33,10 +33,10 @@ Gli strumenti individuati per consolidare nel futuro una relazione più articola
 
 * attivazione di portali unici per l’informazione alla cittadinanza sui servizi e le agevolazioni disponibili, interoperabili con altre piattaforme abilitanti per la finalizzazione delle domande.
 
-.. _h1514c456c6e5c38686225f7a65946:
+.. _hd2724311e2c47541f6480556fb79:
 
-L’uso della città
-*****************
+2- L’uso della città
+********************
 
 :class:`Modelli di attività e dislocazione delle attività`
 
@@ -54,10 +54,10 @@ Nel nuovo \ |STYLE13|\ , \ |STYLE14|\ , approvato a febbraio di quest’anno, ne
 
 Un riferimento diretto alla città dei 15’ è rinvenibile anche nel \ |STYLE16|\ , approvata il 20 luglio scorso, con cui si intende «ridefinire ed in parte confermare l’idea di città sostenibile e resiliente in grado di promuovere e garantire la salute e il benessere dei cittadini, modificando o accelerando alcuni processi in corso ove non promuovendone di nuovi. Sono fondamentali pertanto le azioni già intraprese di analisi del verde di prossimità o di “camminabilità”, così come il rafforzamento dello spazio pubblico di quartiere nell’ambito del progetto di città multicentrica che punti alla distribuzione omogenea sul territorio dei servizi, delle aree verdi, della qualità urbana». 
 
-.. _h43f2660cb484d3c76f251d175023:
+.. _h68382c7e263d7d20423a357876503b4:
 
-La città condivisa
-******************
+3- La città condivisa
+*********************
 
 :class:`Collaborative governance e partecipazione dei cittadini al governo urbano`
 
@@ -87,14 +87,12 @@ Si tratta della promozione di un modello di \ |STYLE25|\  aperto e partecipato c
 
 [1] Per l’Italia, soprattutto, ANCI e URBACT
 
-.. _h272054233f44591b7c5a4e744c50b5a:
+.. _hf13c91647416d574f91b625377e:
 
-Conoscere la città e intervenire (consapevolmente e tempestivamente)
-********************************************************************
+4- Conoscere la città e intervenire (consapevolmente e tempestivamente)
+***********************************************************************
 
-:class:`Sistemi integrati di monitoraggio`
-
-Sistemi integrati di monitoraggio del territorio
+:class:`Sistemi integrati di monitoraggio del territorio`
 
 Il terzo ambito di approfondimento è quello della \ |STYLE26|\ , ovvero della possibilità/necessità di disporre (certamente in condizioni critiche, ma anche in quelle ordinarie) degli strumenti per raccogliere, ordinare, analizzare e interpretare l’enorme mole di dati oggi disponibili sui fenomeni e comportamenti urbani con la riproposizione, moltiplicata, dell’importanza ma anche della complessità dei progetti di costruzione di \ |STYLE27|\  che diverse città stanno portando avanti.
 
