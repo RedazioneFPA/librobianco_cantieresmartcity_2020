@@ -110,7 +110,7 @@ La complessità di un tale progetto non può prescindere da una forte volontà p
 
 I vantaggi risiedono nell’opportunità di avere informazioni puntuali basate su dati in \ |STYLE32|\ ; nella possibilità di coordinare efficacemente gli interventi, potendo attribuire da un’unica sala di comando in cui risiedono i diversi attori delle \ |STYLE33|\  responsabilità e competenze; nell’opportunità di comunicare rapidamente a cittadini il sopraggiungere di criticità evitando l’aggravarsi del rischio. 
 
-Il tema della Smart City Control Room attraversa trasversalmente i quattro ambiti oggetto di approfondimento del presente Libro Bianco, nei quali si sono manifestati effetti rilevanti e attivate significative reazioni rispetto alla crisi sanitaria, ma, in particolare riguarda:
+Il tema della \ |STYLE34|\  attraversa trasversalmente i quattro ambiti oggetto di approfondimento del presente Libro Bianco, nei quali si sono manifestati effetti rilevanti e attivate significative reazioni rispetto alla crisi sanitaria, ma in particolare riguarda:
 
 *  la gestione delle fragilità urbane e sociali;
 
@@ -192,6 +192,8 @@ Il tema della Smart City Control Room attraversa trasversalmente i quattro ambit
 .. |STYLE32| replace:: *real time*
 
 .. |STYLE33| replace:: *utilities*
+
+.. |STYLE34| replace:: *Smart City Control Room*
 
 
 .. |LINK1| raw:: html
