@@ -4,11 +4,35 @@
 Consultazione Pubblica 
 #######################
 
-A partire dal \ |STYLE0|\  e fino al \ |STYLE1|\ , il Libro Bianco per le smart city 2020 è pubblicato e posto in consultazione pubblica online.
+A partire dal \ |STYLE0|\  e fino al \ |STYLE1|\ , il Libro Bianco delle Responsive Cities 2020 di FPA è pubblicato e posto in consultazione pubblica online.
 
-:guilabel:`Metodo di partecipazione`
+:guilabel:`Come commentare e proporre nuovi punti di attenzione`
 
-Viene illustrato il metodo \ |LINK1|\  utilizzato per la consultazione e interazione sul documento. Si tratta dello stesso strumento utilizzato da FPA nel 2018 per la redazione partecipata del \ |LINK2|\ .
+Si utilizza lo strumento \ |LINK1|\ , già utilizzato da FPA nel 2018 per la redazione partecipata del \ |LINK2|\ .
+
+Il suo utilizzo è molto semplice. Per inserire commenti:
+
+Cliccate sul simbolo \ |STYLE2|\  in alto a destra della pagina.
+
+img_1
+
+Si aprirà un tab. Per inserire il proprio commento è necessario prima registrarsi. Cliccate in alto a destra della tab su “\ |STYLE3|\ ”. 
+
+img_2
+
+Scegliete username e password. Vi arriverà una mail di verifica.
+
+Qualora si fosse già registrati a \ |STYLE4|\ , basterà fare il “Log in”.
+
+img_3
+
+A questo punto tornate al Capitolo del Libro Bianco che vi interessa.
+
+Evidenziate una o più frasi che volete commentare o su cui volete proporre integrazioni. Apparirà il simbolo \ |STYLE5|\ 
+
+A destra si aprirà la tab per inserire il vostro commento.
+
+img_4
 
 
 .. bottom of content
@@ -17,6 +41,14 @@ Viene illustrato il metodo \ |LINK1|\  utilizzato per la consultazione e interaz
 .. |STYLE0| replace:: **16  dicembre 2020**
 
 .. |STYLE1| replace:: **12 gennaio 2021**
+
+.. |STYLE2| replace:: **<**
+
+.. |STYLE3| replace:: **Sign up**
+
+.. |STYLE4| replace:: **Hypotes.is**
+
+.. |STYLE5| replace:: **“Annotate”, cliccate.**
 
 
 .. |LINK1| raw:: html
