@@ -202,7 +202,7 @@ Il tema della \ |STYLE34|\  attraversa trasversalmente i quattro ambiti oggetto 
 
 .. |LINK4| raw:: html
 
-    <a href="https://hypothes.is/stream.rss?uri=https://libro-bianco-cantiere-smartcity-fpa-2020.readthedocs.io/it/latest/2.Capitolo.html" target="_blank">Flusso XML dei commenti su questa pagina</a>
+    <a href="https://hypothes.is/stream.rss?uri=https://librobianco-responsive-city-fpa-2020.readthedocs.io/it/latest/2.Capitolo.html" target="_blank">Flusso XML dei commenti su questa pagina</a>
 
 
 
