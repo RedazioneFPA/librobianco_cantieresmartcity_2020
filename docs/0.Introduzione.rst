@@ -4,13 +4,13 @@
 Premessa
 ########
 
-Durante il corso del 2020 FPA ha svolto un articolato e intenso percorso di ascolto, di dialogo e di confronto con amministratori locali, gestori delle utilities e operatori privati coinvolti nei processi di trasformazione, adattamento e sviluppo delle città e dei territori.
+Durante il corso del 2020 FPA ha svolto un articolato e intenso percorso di ascolto, di dialogo e confronto con amministratori locali, gestori delle utilities e operatori privati coinvolti nei processi di trasformazione, adattamento e sviluppo delle città e dei territori.
 
-Siamo partiti con il \ |STYLE0|\ , tre incontri a porte chiuse (giugno, settembre e novembre 2020) con i decision maker e stakeholder delle principali amministrazioni locali, per individuare e definire problemi e potenzialità comuni ai diversi territori, attraverso il confronto tra i partecipanti. Ci siamo poi ritrovati al FORUM PA di Luglio con un \ |LINK1|\  e a settembre al festival \ |STYLE1|\ , di cui FPA è stata partner, con il convegno \ |LINK2|\ , moderato da Gianni Dominici, Direttore Generale di FPA e che ha visto la partecipazione di alcuni dei Sindaci delle maggiori città italiane: Chiara Appendino, Sindaca del Comune di Torino, Antonio Decaro, Sindaco del Comune di Bari, Federico Pizzarotti, Sindaco del Comune di Parma, Valeria Mancinelli, Sindaca del Comune di Ancona, Gian Carlo Muzzarelli, Sindaco del Comune di Modena e Paolo Truzzu, Sindaco del Comune di Cagliari.
+Siamo partiti con il \ |STYLE0|\ , tre incontri a porte chiuse (giugno, settembre e novembre 2020) con i decision maker e stakeholder delle principali amministrazioni locali, per individuare e definire problemi e potenzialità comuni ai diversi territori, attraverso le esperienze portate al tavolo dai partecipanti. Ci siamo poi ritrovati al FORUM PA di Luglio con un \ |LINK1|\  e a Settembre al festival \ |STYLE1|\ , di cui FPA è stata partner, con il convegno \ |LINK2|\ , moderato da Gianni Dominici, Direttore Generale di FPA e che ha visto la partecipazione di alcuni dei Sindaci delle maggiori città italiane: Chiara Appendino, Sindaca del Comune di Torino, Antonio Decaro, Sindaco del Comune di Bari, Federico Pizzarotti, Sindaco del Comune di Parma, Valeria Mancinelli, Sindaca del Comune di Ancona, Gian Carlo Muzzarelli, Sindaco del Comune di Modena e Paolo Truzzu, Sindaco del Comune di Cagliari.
 
 Abbiamo proseguito il nostro percorso a \ |LINK3|\  con un programma che fa del “ripartire” il suo modello concettuale, per approdare infine a FORUM PA CITTA’, dove presentiamo la nuova edizione di ICity Rank.
 
-La vicinanza agli attori locali, ha permesso a FPA di seguire l’evolversi della vicenda pandemica, gli effetti che si stanno riversando sui territori, le domande emergenti, le risposte messe in campo in emergenza.
+La vicinanza agli attori locali, ha permesso a FPA di seguire l’evolversi della vicenda pandemica, gli effetti che si stanno riversando sui territori, le domande emergenti, le azioni messe in campo in emergenza.
 
 Alla fortissima presa d’atto di quanto in pochissimo tempo stesse accadendo - trasformando modi di vivere, di “usare” e di amministrare la città - e della rapidità quasi inedita con cui alcune soluzioni sono state approntate dalle amministrazioni locali in favore dei cittadini, si è accostata l’esigenza di comprendere quanto e come il cambiamento in atto sia duraturo, o meglio, quale sarà “l’eredità positiva” che l’esperienza dell’emergenza da COVID-19 consegnerà alla \ |STYLE2|\  del futuro, producendo effetti significativi su un rinnovato modello di sviluppo urbano.
 
@@ -18,11 +18,11 @@ FPA ha deciso così di avviare un processo di \ |STYLE3|\  partecipativo finaliz
 
 Le principali questioni emerse durante gli incontri in termini di “eredità” e ripensamento strategico dei modelli, delle soluzioni e degli strumenti di \ |STYLE4|\  sono state ricondotte ad alcuni temi portanti di riflessione e di intervento sinteticamente illustrati nei Capitoli che seguono: “\ |STYLE5|\ ”, “\ |STYLE6|\ ”, “\ |STYLE7|\ ”, “\ |STYLE8|\ ”.
 
-\ |STYLE9|\ : gli input raccolti nel corso degli incontri e dei momenti di approfondimento che FPA ha realizzato nel corso del 2020 hanno rappresentato la premessa per l’individuazione dei principali ambiti di intervento e sono stati raccolti nel Capitolo “\ |STYLE10|\  sono, quindi, riportati output, raccomandazioni, indicazioni, vocazioni e orientamenti emersi nel lungo percorso di ascolto e di confronto con gli stakeholder locali che FPA ha portato avanti lungo il 2020.
+\ |STYLE9|\ : gli input raccolti nel corso degli incontri e dei momenti di approfondimento che FPA ha realizzato nel corso del 2020 hanno rappresentato la premessa per l’individuazione dei principali ambiti di intervento e sono stati raccolti nel Capitolo “\ |STYLE10|\  \ |STYLE11|\  sono, quindi, riportati output, raccomandazioni, indicazioni, vocazioni e orientamenti emersi nel lungo percorso di ascolto e di confronto con gli stakeholder locali che FPA ha portato avanti lungo il 2020.
 
-Il contenuto del presente documento è aperto alla consultazione pubblica, affinché possa accogliere il loro contributo di una community allargata di esperti, amministratori locali e operatori privati. Con particolare riferimento agli ambiti di intervento indicati e al Capitolo \ |STYLE11|\ 
+Il contenuto del presente documento è aperto alla consultazione pubblica, affinché possa accogliere il loro contributo di una community allargata di esperti, amministratori locali e operatori privati. Con particolare riferimento agli ambiti di intervento indicati e al Capitolo \ |STYLE12|\ 
 
-Chiusa la fase di consultazione pubblica, tutti i contributi pervenuti saranno verificati e sistematizzati da FPA all’interno del Libro Bianco delle Responsive Cities.  Il Libro Bianco delle Responsive Cities  di FPA, arricchito da questo materiale, sarà presentato in un evento pubblico nella prima parte del 2021.
+Chiusa la fase di consultazione pubblica, tutti i contributi pervenuti saranno verificati e sistematizzati da FPA all’interno del Libro Bianco delle Responsive Cities.  Il \ |STYLE13|\ , arricchito da questo materiale, sarà presentato in un evento pubblico nella prima parte del 2021.
 
 --------
 
@@ -51,9 +51,13 @@ Chiusa la fase di consultazione pubblica, tutti i contributi pervenuti saranno v
 
 .. |STYLE9| replace:: **Il presente documento è un work in progress**
 
-.. |STYLE10| replace:: **Scelte da compiere”. In questo Capitolo**
+.. |STYLE10| replace:: **Le**
 
-.. |STYLE11| replace:: **“Scelte da compiere”.**
+.. |STYLE11| replace:: **scelte da compiere”. In questo Capitolo**
+
+.. |STYLE12| replace:: **“Le scelte da compiere”.**
+
+.. |STYLE13| replace:: **Libro Bianco delle Responsive Cities 2020 di FPA**
 
 
 .. |LINK1| raw:: html
