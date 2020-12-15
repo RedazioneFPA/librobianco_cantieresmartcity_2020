@@ -13,9 +13,7 @@ Quattro ambiti di riflessione e intervento
 
 Il primo ambito in cui si ritiene che i processi di innovazione adottati in emergenza vadano valorizzati  è quello delle \ |STYLE0|\ , cioè delle dimensioni dell’ecosistema urbano che hanno mostrato una la loro particolare vulnerabilità nel corso del 2020: quello \ |STYLE1|\  dei cittadini che ordinariamente vivono al limite e dei quali in condizioni particolari si palesa la non autosufficienza, rendendo necessario un intervento di supporto, e quello \ |STYLE2|\  dei servizi, la cui riduzione provoca disservizi che rendono molto difficile la vita e le attività quotidiane dei cittadini e delle imprese.
 
-L’impatto del COVID ha reso più evidenti i divari sociali ed è stato più grave per le popolazioni vulnerabili che vivevano una condizione pregressa di deprivazione o di carenza di risorse.
-
-Per queste categorie sociali il distanziamento e la chiusura di vendita al dettaglio, trasporti, ristoranti e altri servizi è stata particolarmente problematica.
+L’impatto del COVID ha reso più evidenti i divari sociali ed è stato più grave per le popolazioni vulnerabili che vivevano una condizione pregressa di deprivazione o di carenza di risorse. Per queste categorie sociali il distanziamento e la chiusura di vendita al dettaglio, trasporti, ristoranti e altri servizi è stata particolarmente problematica.
 
 Raggiungere le popolazioni più fragili con azioni di sostegno è stata una delle priorità soddisfare per gli amministratori locali, coinvolti nel processo di ascolto intrapreso da FPA nel corso del 2020.
 
@@ -67,7 +65,7 @@ Le città hanno collaborato con un’ampia gamma di attori, inclusi i governi na
 
 Nel suo intervento a FORUM PA - Restart Italia del 4 novembre 2020, il Ministro per gli Affari regionali e Autonomie, Francesco Boccia, ha evidenziato come la crisi pandemica abbia modificato le relazioni e intensificato il confronto tra Governo, Regioni ed Enti locali, trasformando la Conferenza Stato Regioni e la Conferenza unificata in un tavolo di confronto permanente.
 
-Le reti cittadine nazionali e internazionali[1] sono state attive nello scambio di conoscenze e di esperienze e stanno giocando un ruolo chiave nel loro dialogo con i livelli centrali per chiedere azioni coordinate e un approccio olistico e integrato al recupero urbano e alla resilienza a lungo termine (si veda a questo proposito il \ |LINK1|\  presentato da ANCI al Governo).
+Le reti cittadine nazionali e internazionali\ [#F1]_\  sono state attive nello scambio di conoscenze e di esperienze e stanno giocando un ruolo chiave nel loro dialogo con i livelli centrali per chiedere azioni coordinate e un approccio olistico e integrato al recupero urbano e alla resilienza a lungo termine (si veda a questo proposito il \ |LINK1|\  presentato da ANCI al Governo).
 
 Un dialogo multilivello efficace e meccanismi di coordinamento sono essenziali per alleggerire le tensioni tra i livelli di governo e gestire le situazioni critiche.
 
@@ -82,10 +80,6 @@ Il Comune di Bergamo ha patrocinato il white paper “\ |LINK2|\ ”, promuovend
 Il comune di Milano ha aperto una call per ricevere contributi da parte della cittadinanza a \ |LINK3|\ , un documento che ha lo scopo di elaborare una strategia per lo scenario della ripartenza del Comune di Milano dopo l’emergenza pandemica e il disegno del \ |STYLE24|\ . I contributi pervenuti al comune sono stati 2.967.
 
 Si tratta della promozione di un modello di \ |STYLE25|\  aperto e partecipato che, attivato in emergenza, potrà avere un forte significato nel futuro.
-
---------
-
-[1] Per l’Italia, soprattutto, ANCI e URBACT
 
 .. _hf13c91647416d574f91b625377e:
 
@@ -212,3 +206,8 @@ Il tema della \ |STYLE34|\  attraversa trasversalmente i quattro ambiti oggetto 
 
     <a href="https://hypothes.is/stream.rss?uri=https://libro-bianco-cantiere-smartcity-fpa-2020.readthedocs.io/it/latest/2.Capitolo.html" target="_blank">Flusso XML dei commenti su questa pagina</a>
 
+
+
+.. rubric:: Footnotes
+
+.. [#f1]  Per l’Italia, soprattutto, ANCI e URBACT
