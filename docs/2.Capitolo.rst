@@ -9,7 +9,7 @@ Quattro ambiti di riflessione e intervento
 La città fragile
 ****************
 
-:guilabel:`Monitoraggio e gestione delle debolezze sociali e funzionali urbane`
+:class:`Monitoraggio e gestione delle debolezze sociali e funzionali urbane`
 
 Il primo ambito in cui si ritiene che i processi di innovazione adottati in emergenza vadano valorizzati  è quello delle \ |STYLE0|\ , cioè delle dimensioni dell’ecosistema urbano che hanno mostrato una la loro particolare vulnerabilità nel corso del 2020: quello \ |STYLE1|\  dei cittadini che ordinariamente vivono al limite e dei quali in condizioni particolari si palesa la non autosufficienza, rendendo necessario un intervento di supporto, e quello \ |STYLE2|\  dei servizi, la cui riduzione provoca disservizi che rendono molto difficile la vita e le attività quotidiane dei cittadini e delle imprese.
 
