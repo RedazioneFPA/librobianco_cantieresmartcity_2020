@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Libro bianco delle responsive cities 2020, di FPA'
+project = 'Libro Bianco delle responsive cities 2020, di FPA'
 copyright = '= licenza CC BY NC SA'
 
 # The name of the Pygments (syntax highlighting) style to use.
