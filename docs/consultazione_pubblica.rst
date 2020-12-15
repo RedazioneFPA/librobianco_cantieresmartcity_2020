@@ -14,17 +14,19 @@ Il suo utilizzo è molto semplice. Per inserire commenti:
 
 Cliccate sul simbolo \ |STYLE2|\  in alto a destra della pagina.
 
-img_1
+|REPLACE1|
 
 Si aprirà un tab. Per inserire il proprio commento è necessario prima registrarsi. Cliccate in alto a destra della tab su “\ |STYLE3|\ ”. 
 
-img_2
+
+|REPLACE2|
 
 Scegliete username e password. Vi arriverà una mail di verifica.
 
 Qualora si fosse già registrati a \ |STYLE4|\ , basterà fare il “Log in”.
 
-img_3
+
+|REPLACE3|
 
 A questo punto tornate al Capitolo del Libro Bianco che vi interessa.
 
@@ -32,7 +34,8 @@ Evidenziate una o più frasi che volete commentare o su cui volete proporre inte
 
 A destra si aprirà la tab per inserire il vostro commento.
 
-img_4
+
+|REPLACE4|
 
 
 .. bottom of content
@@ -50,6 +53,19 @@ img_4
 
 .. |STYLE5| replace:: **“Annotate”, cliccate.**
 
+
+.. |REPLACE1| raw:: html
+
+    <img src="https://raw.githubusercontent.com/RedazioneFPA/librobianco_cantieresmartcity_2020/master/docs/img/img_1.png" />
+.. |REPLACE2| raw:: html
+
+    <img src="https://raw.githubusercontent.com/RedazioneFPA/librobianco_cantieresmartcity_2020/master/docs/img/img_2.png" />
+.. |REPLACE3| raw:: html
+
+    <img src="https://raw.githubusercontent.com/RedazioneFPA/librobianco_cantieresmartcity_2020/master/docs/img/img_3.png" />
+.. |REPLACE4| raw:: html
+
+    <img src="https://raw.githubusercontent.com/RedazioneFPA/librobianco_cantieresmartcity_2020/master/docs/img/img_4.png" />
 
 .. |LINK1| raw:: html
 
