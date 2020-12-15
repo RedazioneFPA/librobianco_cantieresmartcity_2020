@@ -87,10 +87,10 @@ Si tratta della promozione di un modello di \ |STYLE25|\  aperto e partecipato c
 
 [1] Per l’Italia, soprattutto, ANCI e URBACT
 
-.. _h154d7d282158434f35655515495d1d5d:
+.. _h272054233f44591b7c5a4e744c50b5a:
 
-Conoscere la città e intervenire (consapevolmente e tempestivamente
-*******************************************************************
+Conoscere la città e intervenire (consapevolmente e tempestivamente)
+********************************************************************
 
 Sistemi integrati di monitoraggio del territorio
 
@@ -104,7 +104,7 @@ Sensori, reti di comunicazione e centri di elaborazione dati sono gli elementi f
 
 La \ |STYLE30|\  è un sistema particolarmente performante per la gestione delle infrastrutture, dei servizi e delle emergenze in ambito urbano, la cui complessità oltre che nell’implementazione tecnica, risiede nelle dinamiche pubbliche e amministrative alla base del suo governo.
 
-Il principio cardine di una \ |STYLE31|\ , tutt’altro che banale, è, infatti, quello della condivisione: condivisione di dati, delle modalità di analisi, dei modelli interpretativi e delle misure di intervento da parte dei diversi soggetti coinvolti, perlopiù gestori di reti e servizi pubblici, oltre che attori amministrativi.
+Il principio cardine di una \ |STYLE31|\  è, infatti, quello della condivisione: condivisione di dati, delle modalità di analisi, dei modelli interpretativi e delle misure di intervento da parte dei diversi soggetti coinvolti, perlopiù gestori di reti e servizi pubblici, oltre che attori amministrativi.
 
 La complessità di un tale progetto non può prescindere da una forte volontà politica - integrandosi con un processo ampio di pianificazione strategica della città digitale - e deve dotarsi di specifiche competenze nel contesto amministrativo, in grado di coinvolgere la platea degli attori, gestire le procedure amministrative, reperire le fonti di finanziamento.
 
