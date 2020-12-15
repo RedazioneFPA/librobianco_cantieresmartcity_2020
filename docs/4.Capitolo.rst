@@ -6,47 +6,48 @@ Le scelte da compiere
 
 Dal confronto con gli amministratori locali, i tecnici, gli operatori e gestori delle utilities urbane che FPA ha condotto nel corso del 2020, è emerso un quadro di indicazioni in grado di rappresentare \ |STYLE0|\  per valorizzare e accelerare le dinamiche positive emerse soprattutto in tema di: trasformazione digitale, \ |STYLE1|\  multi-livello e multi-attoriale e ripensamento dei modelli urbani.
 
-\ |STYLE2|\ 
+
+|REPLACE1|
 
 Nell’ottica di attuare in maniera stabile e duratura un cambio di paradigma che veda l’amministrazione locale “raggiungere” diffusamente e capillarmente i cittadini (piuttosto che il contrario) con un’azione “intelligente”, “informata” e “tempestiva” – soprattutto al sopraggiungere di criticità non previste - si rendono necessari i seguenti interventi:
 
-* Abilitazione di \ |STYLE3|\  per il monitoraggio e la gestione delle fragilità funzionali e sociali del sistema cittadino;
+* Abilitazione di \ |STYLE2|\  per il monitoraggio e la gestione delle fragilità funzionali e sociali del sistema cittadino;
 
-* \ |STYLE4|\  finalizzata alla condivisione e al rilascio dei dati con finalità di pubblica utilità;
+* \ |STYLE3|\  finalizzata alla condivisione e al rilascio dei dati con finalità di pubblica utilità;
 
-* Sistemi di \ |STYLE5|\ ;
+* Sistemi di \ |STYLE4|\ ;
 
-* Secondo un “principio generativo di utilità”, \ |STYLE6|\  prodotti da diverse utilities presenti sul territorio per generare nuovi \ |STYLE7|\  informativi e, quindi, nuove dimensioni di presidio e di intervento;
+* Secondo un “principio generativo di utilità”, \ |STYLE5|\  prodotti da diverse utilities presenti sul territorio per generare nuovi \ |STYLE6|\  informativi e, quindi, nuove dimensioni di presidio e di intervento;
 
-* Agevolare \ |STYLE8|\  per gli accordi multi – attoriali come, ad esempio, il “partenariato dell’innovazione” messo a disposizione dal legislatore (Art. 65 del Codice dei Contratti) nei casi in cui la peculiarità dei servizi da acquisire non possa essere soddisfatta ricorrendo a soluzioni già disponibili sul mercato;
+* Agevolare \ |STYLE7|\  per gli accordi multi – attoriali come, ad esempio, il “partenariato dell’innovazione” messo a disposizione dal legislatore (Art. 65 del Codice dei Contratti) nei casi in cui la peculiarità dei servizi da acquisire non possa essere soddisfatta ricorrendo a soluzioni già disponibili sul mercato;
 
-* Aumentare le \ |STYLE9|\  interne alla PA per la costruzione di una nuova domanda di servizi e per innovare le opportunità di \ |STYLE10|\ .
+* Aumentare le \ |STYLE8|\  interne alla PA per la costruzione di una nuova domanda di servizi e per innovare le opportunità di \ |STYLE9|\ .
 
-\ |STYLE11|\ 
+
+|REPLACE2|
 
 Durante i mesi della pandemia le città hanno sviluppato diverse forme di collaborazione inter-istituzionale – attraverso tavoli di confronto con le istituzioni regionali e centrali – e inter-attoriale, con azioni di coinvolgimento degli stakeholder del territorio sia nei meccanismi di controllo dell’epidemia che nell’elaborazione e condivisione di strategie per il superamento delle attuali criticità.
 
 Un dialogo multilivello efficace, un’informazione adeguata ai cittadini, meccanismi di coordinamento e di engagement sono essenziali per alleggerire le tensioni tra i livelli di governo e gestire le situazioni critiche. A tal fine si rendono necessari i seguenti interventi:
 
-* attivazione di \ |STYLE12|\  con gli operatori e stakeholder del territorio per il supporto alla popolazione più vulnerabile e la gestione delle situazioni critiche;
+* attivazione di \ |STYLE10|\  con gli operatori e stakeholder del territorio per il supporto alla popolazione più vulnerabile e la gestione delle situazioni critiche;
 
-* attivazione di \ |STYLE13|\  sui servizi e le agevolazioni disponibili, interoperabili con altre piattaforme abilitanti per la finalizzazione delle domande;
+* attivazione di \ |STYLE11|\  sui servizi e le agevolazioni disponibili, interoperabili con altre piattaforme abilitanti per la finalizzazione delle domande;
 
-* implementazione di \ |STYLE14|\ .
+* implementazione di \ |STYLE12|\ .
 
- 
 
-\ |STYLE15|\ 
+|REPLACE3|
 
-Durante i mesi del \ |STYLE16|\ , il ricorso improvviso e in maniera massiva allo \ |STYLE17|\  per molte categorie di lavoratori e le limitazioni alla mobilità urbana hanno suggerito il ripensamento dei modelli d’uso della città e del territorio secondo un nuovo paradigma che tenga conto del \ |STYLE18|\  e della \ |STYLE19|\  come variabili principali per la destinazione e la distribuzione dei servizi.
+Durante i mesi del \ |STYLE13|\ , il ricorso improvviso e in maniera massiva allo \ |STYLE14|\  per molte categorie di lavoratori e le limitazioni alla mobilità urbana hanno suggerito il ripensamento dei modelli d’uso della città e del territorio secondo un nuovo paradigma che tenga conto del \ |STYLE15|\  e della \ |STYLE16|\  come variabili principali per la destinazione e la distribuzione dei servizi.
 
 Quello che, non solo città internazionali, ma diverse città italiane stanno guardando con interesse è il paradigma della “\ |LINK1|\ ”, che prevede:
 
-* \ |STYLE20|\  in un contesto non più di segmentazione e specializzazione ma di integrazione e di “mix funzionale”;
+* \ |STYLE17|\  in un contesto non più di segmentazione e specializzazione ma di integrazione e di “mix funzionale”;
 
-* \ |STYLE21|\  per facilitare l’attività di incontro e di \ |STYLE22|\  all’aperto;
+* \ |STYLE18|\  per facilitare l’attività di incontro e di \ |STYLE19|\  all’aperto;
 
-* incentivazione della \ |STYLE23|\ 
+* incentivazione della \ |STYLE20|\ 
 
 --------
 
@@ -59,50 +60,54 @@ Quello che, non solo città internazionali, ma diverse città italiane stanno gu
 
 .. |STYLE1| replace:: *governance*
 
-.. |STYLE2| replace:: **ACCELERAZIONE DEI PROCESSI DI TRASFORMAZIONE DIGITALE PER IL MONITORAGGIO DEL TERRITORIO E UN’AZIONE TEMPESTIVA ED INFORMATA**
+.. |STYLE2| replace:: **strumenti di implementazione, acquisizione, analisi ed elaborazione dati**
 
-.. |STYLE3| replace:: **strumenti di implementazione, acquisizione, analisi ed elaborazione dati**
+.. |STYLE3| replace:: **Ridefinizione dei rapporti tra gestori delle utilities urbane e amministrazioni locali**
 
-.. |STYLE4| replace:: **Ridefinizione dei rapporti tra gestori delle utilities urbane e amministrazioni locali**
+.. |STYLE4| replace:: **condivisione dei dati con i cittadini**
 
-.. |STYLE5| replace:: **condivisione dei dati con i cittadini**
+.. |STYLE5| replace:: **connettere e integrare i dati**
 
-.. |STYLE6| replace:: **connettere e integrare i dati**
+.. |STYLE6| replace:: *asset*
 
-.. |STYLE7| replace:: *asset*
+.. |STYLE7| replace:: **strumenti agili**
 
-.. |STYLE8| replace:: **strumenti agili**
+.. |STYLE8| replace:: **competenze**
 
-.. |STYLE9| replace:: **competenze**
+.. |STYLE9| replace:: *procurement*
 
-.. |STYLE10| replace:: *procurement*
+.. |STYLE10| replace:: **reti permanenti di collaborazione**
 
-.. |STYLE11| replace:: **GOVERNANCE COLLABORATIVA**
+.. |STYLE11| replace:: **portali unici per l’informazione alla cittadinanza**
 
-.. |STYLE12| replace:: **reti permanenti di collaborazione**
+.. |STYLE12| replace:: **modelli di governance partecipata per il disegno di strategie di crescita e sviluppo**
 
-.. |STYLE13| replace:: **portali unici per l’informazione alla cittadinanza**
+.. |STYLE13| replace:: *lockdown*
 
-.. |STYLE14| replace:: **modelli di governance partecipata per il disegno di strategie di crescita e sviluppo**
+.. |STYLE14| replace:: *smart working*
 
-.. |STYLE15| replace:: **RIPENSAMENTO DEI MODELLI D’USO DEL TERRITORIO**
+.. |STYLE15| replace:: **tempo**
 
-.. |STYLE16| replace:: *lockdown*
+.. |STYLE16| replace:: **prossimità**
 
-.. |STYLE17| replace:: *smart working*
+.. |STYLE17| replace:: **diffusione di servizi di prossimità**
 
-.. |STYLE18| replace:: **tempo**
+.. |STYLE18| replace:: **“irrigazione policentrica” di spazi e parchi pubblici**
 
-.. |STYLE19| replace:: **prossimità**
+.. |STYLE19| replace:: *loisir*
 
-.. |STYLE20| replace:: **diffusione di servizi di prossimità**
+.. |STYLE20| replace:: **micro-mobilità soft.**
 
-.. |STYLE21| replace:: **“irrigazione policentrica” di spazi e parchi pubblici**
 
-.. |STYLE22| replace:: *loisir*
+.. |REPLACE1| raw:: html
 
-.. |STYLE23| replace:: **micro-mobilità soft.**
+    <span style="background-color:#1b70c4; color: #ffffff; display: inline-block; padding: 1px 7px; border-radius: 4px;">ACCELERAZIONE DEI PROCESSI DI TRASFORMAZIONE DIGITALE PER IL MONITORAGGIO DEL TERRITORIO E UN’AZIONE TEMPESTIVA ED INFORMATA</span> 
+.. |REPLACE2| raw:: html
 
+    <span style="background-color:#1b70c4; color: #ffffff; display: inline-block; padding: 1px 7px; border-radius: 4px;">GOVERNANCE COLLABORATIVA</span> 
+.. |REPLACE3| raw:: html
+
+    <span style="background-color:#1b70c4; color: #ffffff; display: inline-block; padding: 1px 7px; border-radius: 4px;">RIPENSAMENTO DEI MODELLI D’USO DEL TERRITORIO</span> 
 
 .. |LINK1| raw:: html
 
