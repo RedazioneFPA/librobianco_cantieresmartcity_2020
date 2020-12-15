@@ -27,8 +27,6 @@ Il :guilabel:`Libro Bianco delle Responsive Cities 2020` è il risultato di un p
     2.Capitolo
     3.Capitolo
     4.Capitolo
-    5.Capitolo
-    6.Capitolo
 
 
 .. toctree:: 
