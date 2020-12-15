@@ -90,7 +90,7 @@ Documenti Societari
 
 .. |LINK2| raw:: html
 
-    <a href="https://github.com/RedazioneFPA/librobianco_cantieresmartcity_2020" target="_blank">Github</a>
+    <a href="https://github.com/RedazioneFPA/librobianco_responsive_city_2020" target="_blank">Github</a>
 
 .. |LINK3| raw:: html
 
