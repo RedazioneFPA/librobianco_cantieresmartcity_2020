@@ -1,17 +1,212 @@
 
-.. _h7216661e136c4862484e43325946181d:
+.. _h301b7871a422920742514573b61425c:
 
-Dimensione 2
-############
+Quattro ambiti di riflessione e intervento
+##########################################
+
+.. _h753884d4452b5e276246763d10643a:
+
+La città fragile
+****************
+
+Monitoraggio e gestione delle debolezze sociali e funzionali urbane
+
+Il primo ambito in cui si ritiene che i processi di innovazione adottati in emergenza vadano valorizzati  è quello delle \ |STYLE0|\ , cioè delle dimensioni dell’ecosistema urbano che hanno mostrato una la loro particolare vulnerabilità nel corso del 2020: quello \ |STYLE1|\  dei cittadini che ordinariamente vivono al limite e dei quali in condizioni particolari si palesa la non autosufficienza, rendendo necessario un intervento di supporto, e quello \ |STYLE2|\  dei servizi, la cui riduzione provoca disservizi che rendono molto difficile la vita e le attività quotidiane dei cittadini e delle imprese.
+
+L’impatto del COVID ha reso più evidenti i divari sociali ed è stato più grave per le popolazioni vulnerabili che vivevano una condizione pregressa di deprivazione o di carenza di risorse.
+
+Per queste categorie sociali il distanziamento e la chiusura di vendita al dettaglio, trasporti, ristoranti e altri servizi è stata particolarmente problematica.
+
+Raggiungere le popolazioni più fragili con azioni di sostegno è stata una delle priorità soddisfare per gli amministratori locali, coinvolti nel processo di ascolto intrapreso da FPA nel corso del 2020.
+
+I comuni si sono infatti resi protagonisti di una delle azioni amministrative più efficienti realizzate durante i mesi del primo \ |STYLE3|\ , con la capacità di erogare, in pochi giorni, più di 400 milioni di buoni spesa alle famiglie in difficoltà.
+
+Ulteriori azioni capillari, frutto di iniziativa spontanea, sono state possibili grazie alla mobilitazione straordinaria di cittadini, protezione civile, stakeholder del territorio, associazioni di volontariato, operatori del terzo settore e partner istituzionali che hanno collaborato stabilmente con i Comuni per supportare le persone in difficoltà.
+
+Ciò che emerge, come \ |STYLE4|\  per il futuro è, soprattutto, una consapevolezza rinnovata della capacità dell’amministrazione locale di “andare verso i cittadini”, rovesciando il paradigma tradizionale di rapporto con la propria comunità.
+
+Gli strumenti individuati per consolidare nel futuro una relazione più articolata, empatica e di prossimità tra amministrazione e cittadinanza attengono soprattutto a:
+
+* abilitazione di strumenti di monitoraggio e gestione delle fragilità sociali e funzionali del sistema cittadino;
+
+* attivazione di reti permanenti di collaborazione con operatori e stakeholder del territorio per il supporto alla popolazione più vulnerabile;
+
+* attivazione di portali unici per l’informazione alla cittadinanza sui servizi e le agevolazioni disponibili, interoperabili con altre piattaforme abilitanti per la finalizzazione delle domande.
+
+.. _h1514c456c6e5c38686225f7a65946:
+
+L’uso della città
+*****************
+
+Modelli di attività e dislocazione delle attività
+
+Il secondo ambito di riflessione e di intervento è quello dei \ |STYLE5|\  del territorio cittadino, in proporzioni differenti, pianificati o spontanei, ma comunque appoggiati su dinamiche estensive e intensive di mobilità (quella residenza-lavoro ma anche quelle legate all’accesso ai servizi o alla relazionalità) che nei mesi della crisi sono venute meno evidenziando la necessità di proseguire non solo i percorsi di incentivazione delle varie forme di \ |STYLE6|\  ma anche il ripensamento della distribuzione spaziale degli spazi e dei servizi urbani.
+
+Non stupisce il successo ottenuto nel corso del 2020 dal paradigma urbano della \ |STYLE7|\ , orientato a mettere al centro il cittadino, la prossimità ai servizi fondamentali e il tempo, come dimensione da liberare, soprattutto, dalle costrizioni degli spostamenti quotidiani casa-lavoro e dei flussi di traffico veicolare.
+
+Nel modello proposto dal Dipartimento di Innovazione territoriale dell’Università La Sorbona di Parigi sotto la guida del prof. Carlos Moreno e adottato dal sindaco di Parigi Anne Hidalgo, che ne ha fatto oggetto di un assessorato, lo scopo è che ogni cittadino possa soddisfare alla distanza di \ |STYLE8|\  da casa propria \ |STYLE9|\ 
+
+Nel caso di \ |STYLE10|\ , le sei funzioni fondamentali sono state a loro volta scomposte in un’ontologia di usi e servizi che generano \ |STYLE11|\  che è attualmente la base sia per indagare l’offerta di usi e funzioni in atto che per progettare \ |STYLE12|\ .
+
+Nel contesto italiano, sono almeno due le città che hanno recepito questo modello in recentissimi strumenti di governo del territorio: Milano e Torino.
+
+Nel nuovo \ |STYLE13|\ , \ |STYLE14|\ , approvato a febbraio di quest’anno, nella sezione “Milano dei quartieri” si propongono «interventi di dimensioni prevalentemente ridotte, articolati e non isolabili, dotati di una forte integrazione; interventi diffusi nel tessuto consolidato della città e non concentrati entro esclusivi “Ambiti di trasformazione”; interventi che interessano spazi costruiti e aperti, pubblici e privati, dismessi e utilizzati, spazi del movimento e spazi della sosta, \ |STYLE15|\  
+
+Un riferimento diretto alla città dei 15’ è rinvenibile anche nel \ |STYLE16|\ , approvata il 20 luglio scorso, con cui si intende «ridefinire ed in parte confermare l’idea di città sostenibile e resiliente in grado di promuovere e garantire la salute e il benessere dei cittadini, modificando o accelerando alcuni processi in corso ove non promuovendone di nuovi. Sono fondamentali pertanto le azioni già intraprese di analisi del verde di prossimità o di “camminabilità”, così come il rafforzamento dello spazio pubblico di quartiere nell’ambito del progetto di città multicentrica che punti alla distribuzione omogenea sul territorio dei servizi, delle aree verdi, della qualità urbana». 
+
+.. _h43f2660cb484d3c76f251d175023:
+
+La città condivisa
+******************
+
+Collaborative governance e partecipazione dei cittadini al governo urbano
+
+Il quarto ambito di considerazione dei processi e delle vocazioni di innovazione urbana è quello della \ |STYLE17|\  tra amministrazioni, cittadini, operatori economici e gestori dei servizi. Anche questa dimensione si è dimostrata cruciale nelle circostanze di emergenza e risulta fondamentale sia nella gestione ordinaria della città, sia nella effettuazione delle scelte strategiche.
+
+Le città hanno collaborato con un’ampia gamma di attori, inclusi i governi nazionali e regionali, le parti interessate urbane e i cittadini, al fine di progettare e attuare risposte immediate a breve e lungo termine alle molteplici dimensioni della crisi COVID - 19.
+
+Nel suo intervento a FORUM PA - Restart Italia del 4 novembre 2020, il Ministro per gli Affari regionali e Autonomie, Francesco Boccia, ha evidenziato come la crisi pandemica abbia modificato le relazioni e intensificato il confronto tra Governo, Regioni ed Enti locali, trasformando la Conferenza Stato Regioni e la Conferenza unificata in un tavolo di confronto permanente.
+
+Le reti cittadine nazionali e internazionali[1] sono state attive nello scambio di conoscenze e di esperienze e stanno giocando un ruolo chiave nel loro dialogo con i livelli centrali per chiedere azioni coordinate e un approccio olistico e integrato al recupero urbano e alla resilienza a lungo termine (si veda a questo proposito il \ |LINK1|\  presentato da ANCI al Governo).
+
+Un dialogo multilivello efficace e meccanismi di coordinamento sono essenziali per alleggerire le tensioni tra i livelli di governo e gestire le situazioni critiche.
+
+Analogamente, a livello locale, tra amministrazioni, cittadini e stakeholder del territorio si sono intensificate le azioni di coinvolgimento inter-attoriale (PA, cittadini, altri stakeholder del territorio), secondo un approccio dialogico e collaborativo, sia nei meccanismi di controllo dell’epidemia sia nell’elaborazione e condivisione di strategie per il superamento delle attuali criticità.
+
+Non sono state poche le città che hanno attivato, da questo punto di vista, tavoli permanenti di confronto e che hanno lanciato \ |STYLE18|\  aperti alla cittadinanza per disegnare il futuro della ripartenza.
+
+Tra quelle con cui FPA si è confrontata nel corso del 2020, si segnala l’esperienza del \ |STYLE19|\  e quella del \ |STYLE20|\ .
+
+Il Comune di Bergamo ha patrocinato il white paper “\ |LINK2|\ ”, promuovendo il concetto di \ |STYLE21|\  secondo approcci di \ |STYLE22|\  e \ |STYLE23|\ 
+
+Il comune di Milano ha aperto una call per ricevere contributi da parte della cittadinanza a \ |LINK3|\ , un documento che ha lo scopo di elaborare una strategia per lo scenario della ripartenza del Comune di Milano dopo l’emergenza pandemica e il disegno del \ |STYLE24|\ . I contributi pervenuti al comune sono stati 2.967.
+
+Si tratta della promozione di un modello di \ |STYLE25|\  aperto e partecipato che, attivato in emergenza, potrà avere un forte significato nel futuro.
 
 --------
 
-\ |LINK1|\ .
+[1] Per l’Italia, soprattutto, ANCI e URBACT
+
+.. _h154d7d282158434f35655515495d1d5d:
+
+Conoscere la città e intervenire (consapevolmente e tempestivamente
+*******************************************************************
+
+Sistemi integrati di monitoraggio del territorio
+
+Il terzo ambito di approfondimento è quello della \ |STYLE26|\ , ovvero della possibilità/necessità di disporre (certamente in condizioni critiche, ma anche in quelle ordinarie) degli strumenti per raccogliere, ordinare, analizzare e interpretare l’enorme mole di dati oggi disponibili sui fenomeni e comportamenti urbani con la riproposizione, moltiplicata, dell’importanza ma anche della complessità dei progetti di costruzione di \ |STYLE27|\  che diverse città stanno portando avanti.
+
+La drammatica esperienza vissuta dalle città italiane durante i mesi del \ |STYLE28|\  ha evidenziato la necessità di dotarsi di strumenti di presidio del territorio per l’acquisizione di dati e informazioni che consentano interventi mirati, riducendo al minimo interferenze e inefficienze.
+
+Si tratta di un livello di azione molto ambizioso che oggi, grazie alle tecnologie, può efficacemente essere supportato da sistemi digitali integrati di monitoraggio e controllo del territorio.
+
+Sensori, reti di comunicazione e centri di elaborazione dati sono gli elementi fondamentali di una \ |STYLE29|\  che può gestire al suo interno un vasto numero di reti di distribuzione e di sensoristica: da quella dell’illuminazione pubblica, a quella semaforica, alle smart grid della rete idrica, ai sistemi di rilevamento della qualità dell’aria, ai sistemi di videosorveglianza etc.
+
+La \ |STYLE30|\  è un sistema particolarmente performante per la gestione delle infrastrutture, dei servizi e delle emergenze in ambito urbano, la cui complessità oltre che nell’implementazione tecnica, risiede nelle dinamiche pubbliche e amministrative alla base del suo governo.
+
+Il principio cardine di una \ |STYLE31|\ , tutt’altro che banale, è, infatti, quello della condivisione: condivisione di dati, delle modalità di analisi, dei modelli interpretativi e delle misure di intervento da parte dei diversi soggetti coinvolti, perlopiù gestori di reti e servizi pubblici, oltre che attori amministrativi.
+
+La complessità di un tale progetto non può prescindere da una forte volontà politica - integrandosi con un processo ampio di pianificazione strategica della città digitale - e deve dotarsi di specifiche competenze nel contesto amministrativo, in grado di coinvolgere la platea degli attori, gestire le procedure amministrative, reperire le fonti di finanziamento.
+
+I vantaggi risiedono nell’opportunità di avere informazioni puntuali basate su dati in \ |STYLE32|\ ; nella possibilità di coordinare efficacemente gli interventi, potendo attribuire da un’unica sala di comando in cui risiedono i diversi attori delle \ |STYLE33|\  responsabilità e competenze; nell’opportunità di comunicare rapidamente a cittadini il sopraggiungere di criticità evitando l’aggravarsi del rischio. 
+
+Il tema della Smart City Control Room attraversa trasversalmente i quattro ambiti oggetto di approfondimento del presente Libro Bianco, nei quali si sono manifestati effetti rilevanti e attivate significative reazioni rispetto alla crisi sanitaria, ma, in particolare riguarda:
+
+*  la gestione delle fragilità urbane e sociali;
+
+* la partecipazione dei cittadini al governo urbano;
+
+* i sistemi di monitoraggio e i modelli di analisi dei dati. 
+
+--------
+
+\ |LINK4|\ .
 
 .. bottom of content
 
 
+.. |STYLE0| replace:: **fragilità urbane**
+
+.. |STYLE1| replace:: **sociale**
+
+.. |STYLE2| replace:: **funzionale**
+
+.. |STYLE3| replace:: *lockdown*
+
+.. |STYLE4| replace:: *lesson learned*
+
+.. |STYLE5| replace:: **modelli di uso**
+
+.. |STYLE6| replace:: *smart mobility,*
+
+.. |STYLE7| replace:: **“città dei 15 minuti”**
+
+.. |STYLE8| replace:: **un quarto d’ora**
+
+.. |STYLE9| replace:: **sei funzioni sociali urbane fondamentali: vivere, lavorare, rifornirsi/acquistare beni, curarsi, apprendere, godere del proprio tempo libero.**
+
+.. |STYLE10| replace:: **Parigi**
+
+.. |STYLE11| replace:: **una matrice della qualità della vita,**
+
+.. |STYLE12| replace:: **una nuova diffusione e distribuzione di servizi in un contesto non più di segmentazione e specializzazione funzionale - come quello che ha dato vita alle città moderne - ma di integrazione e mix funzionale**
+
+.. |STYLE13| replace:: **Piano di Governo del Territorio di Milano**
+
+.. |STYLE14| replace:: *Milano 2030*
+
+.. |STYLE15| replace:: **che privilegiano la scala ravvicinata del quartiere pur se inseriti all’interno di un quadro di coerenza di scala urbana».**
+
+.. |STYLE16| replace:: **quaderno 8 della Proposta Tecnica del Nuovo Piano Regolatore di Torino**
+
+.. |STYLE17| replace:: **condivisione delle informazioni e delle scelte**
+
+.. |STYLE18| replace:: *position paper*
+
+.. |STYLE19| replace:: **Comune di Bergamo**
+
+.. |STYLE20| replace:: **Comune di Milano**
+
+.. |STYLE21| replace:: *adaptive city*
+
+.. |STYLE22| replace:: *human centered design*
+
+.. |STYLE23| replace:: *management dell’innovazione.*
+
+.. |STYLE24| replace:: *new normal*
+
+.. |STYLE25| replace:: *governance*
+
+.. |STYLE26| replace:: **conoscenza della città**
+
+.. |STYLE27| replace:: *Smart City Control Room,*
+
+.. |STYLE28| replace:: *lockdown*
+
+.. |STYLE29| replace:: *Smart City Control Room*
+
+.. |STYLE30| replace:: *Smart City Control Room*
+
+.. |STYLE31| replace:: *Smart City Control Room*
+
+.. |STYLE32| replace:: *real time*
+
+.. |STYLE33| replace:: *utilities*
+
+
 .. |LINK1| raw:: html
+
+    <a href="http://www.anci.it/wp-content/uploads/doc-audizione-senato-recovery-fund-28-settembre-2020.pdf" target="_blank">documento sulle linee guida per il Recovery Fund</a>
+
+.. |LINK2| raw:: html
+
+    <a href="https://www.pnsix.com/adaptive-cities/" target="_blank">Adaptive Cities. User Centered Approach, Contextual Design e Innovation Management per l’evoluzione della città</a>
+
+.. |LINK3| raw:: html
+
+    <a href="https://www.comune.milano.it/aree-tematiche/partecipazione/milano-2020#collapse_article_lxrdLzx07Ozb" target="_blank">“Milano 2020. Strategia di adattamento”</a>
+
+.. |LINK4| raw:: html
 
     <a href="https://hypothes.is/stream.rss?uri=https://libro-bianco-cantiere-smartcity-fpa-2020.readthedocs.io/it/latest/2.Capitolo.html" target="_blank">Flusso XML dei commenti su questa pagina</a>
 
