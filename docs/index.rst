@@ -12,7 +12,7 @@ Il :guilabel:`Libro Bianco delle Responsive Cities 2020` è il risultato di un p
 .. toctree::
   :maxdepth: 2
 
-  Home <https://libro-bianco-cantiere-smartcity-fpa-2020.readthedocs.io/>
+  Home <https://librobianco-responsive-city-fpa-2020.readthedocs.io/>
 
 
 .. toctree:: 
