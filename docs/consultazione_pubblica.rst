@@ -16,10 +16,14 @@ Cliccate sul simbolo \ |STYLE2|\  in alto a destra della pagina.
 
 |REPLACE1|
 
+|
+
 Si aprirà un tab. Per inserire il proprio commento è necessario prima registrarsi. Cliccate in alto a destra della tab su “\ |STYLE3|\ ”. 
 
 
 |REPLACE2|
+
+|
 
 Scegliete username e password. Vi arriverà una mail di verifica.
 
@@ -27,6 +31,8 @@ Qualora si fosse già registrati a \ |STYLE4|\ , basterà fare il “Log in”.
 
 
 |REPLACE3|
+
+|
 
 A questo punto tornate al Capitolo del Libro Bianco che vi interessa.
 
