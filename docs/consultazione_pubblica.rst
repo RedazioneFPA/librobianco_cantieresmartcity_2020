@@ -6,7 +6,8 @@ Consultazione Pubblica
 
 A partire dal \ |STYLE0|\  e fino al \ |STYLE1|\ , il Libro Bianco delle Responsive Cities 2020 di FPA è pubblicato e posto in consultazione pubblica online.
 
-:guilabel:`Come commentare e proporre nuovi punti di attenzione`
+
+|REPLACE1|
 
 
 .. class:: procedura
@@ -17,14 +18,14 @@ Il suo utilizzo è molto semplice. Per inserire commenti:
 
 Cliccate sul simbolo :class:`<` in alto a destra della pagina.
 
-|REPLACE1|
+|REPLACE2|
 
 |
 
 Si aprirà un tab. Per inserire il proprio commento è necessario prima registrarsi. Cliccate in alto a destra della tab su “\ |STYLE2|\ ”. 
 
 
-|REPLACE2|
+|REPLACE3|
 
 |
 
@@ -33,7 +34,7 @@ Scegliete username e password. Vi arriverà una mail di verifica.
 Qualora si fosse già registrati a \ |STYLE3|\ , basterà fare il “Log in”.
 
 
-|REPLACE3|
+|REPLACE4|
 
 |
 
@@ -44,7 +45,7 @@ Evidenziate una o più frasi che volete commentare o su cui volete proporre inte
 A destra si aprirà la tab per inserire il vostro commento.
 
 
-|REPLACE4|
+|REPLACE5|
 
 
 .. bottom of content
@@ -63,14 +64,17 @@ A destra si aprirà la tab per inserire il vostro commento.
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://raw.githubusercontent.com/RedazioneFPA/librobianco_cantieresmartcity_2020/master/docs/img/img_1.png" />
+    <span style="background-color:#1b70c4; color: #ffffff; display: inline-block; padding: 1px 7px; border-radius: 4px;">Come commentare e proporre nuovi punti di attenzione</span> 
 .. |REPLACE2| raw:: html
 
-    <img src="https://raw.githubusercontent.com/RedazioneFPA/librobianco_cantieresmartcity_2020/master/docs/img/img_2.png" />
+    <img src="https://raw.githubusercontent.com/RedazioneFPA/librobianco_cantieresmartcity_2020/master/docs/img/img_1.png" />
 .. |REPLACE3| raw:: html
 
-    <img src="https://raw.githubusercontent.com/RedazioneFPA/librobianco_cantieresmartcity_2020/master/docs/img/img_3.png" />
+    <img src="https://raw.githubusercontent.com/RedazioneFPA/librobianco_cantieresmartcity_2020/master/docs/img/img_2.png" />
 .. |REPLACE4| raw:: html
+
+    <img src="https://raw.githubusercontent.com/RedazioneFPA/librobianco_cantieresmartcity_2020/master/docs/img/img_3.png" />
+.. |REPLACE5| raw:: html
 
     <img src="https://raw.githubusercontent.com/RedazioneFPA/librobianco_cantieresmartcity_2020/master/docs/img/img_4.png" />
 
