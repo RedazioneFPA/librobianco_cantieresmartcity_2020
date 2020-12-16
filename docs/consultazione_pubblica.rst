@@ -12,13 +12,13 @@ Si utilizza lo strumento \ |LINK1|\ , già utilizzato da FPA nel 2018 per la red
 
 Il suo utilizzo è molto semplice. Per inserire commenti:
 
-Cliccate sul simbolo \`\`\ |STYLE2|\  in alto a destra della pagina.
+Cliccate sul simbolo ``<`` in alto a destra della pagina.
 
 |REPLACE1|
 
 |
 
-Si aprirà un tab. Per inserire il proprio commento è necessario prima registrarsi. Cliccate in alto a destra della tab su “\ |STYLE3|\ ”. 
+Si aprirà un tab. Per inserire il proprio commento è necessario prima registrarsi. Cliccate in alto a destra della tab su “\ |STYLE2|\ ”. 
 
 
 |REPLACE2|
@@ -27,7 +27,7 @@ Si aprirà un tab. Per inserire il proprio commento è necessario prima registra
 
 Scegliete username e password. Vi arriverà una mail di verifica.
 
-Qualora si fosse già registrati a \ |STYLE4|\ , basterà fare il “Log in”.
+Qualora si fosse già registrati a \ |STYLE3|\ , basterà fare il “Log in”.
 
 
 |REPLACE3|
@@ -36,7 +36,7 @@ Qualora si fosse già registrati a \ |STYLE4|\ , basterà fare il “Log in”.
 
 A questo punto tornate al Capitolo del Libro Bianco che vi interessa.
 
-Evidenziate una o più frasi che volete commentare o su cui volete proporre integrazioni. Apparirà il simbolo \ |STYLE5|\ 
+Evidenziate una o più frasi che volete commentare o su cui volete proporre integrazioni. Apparirà il simbolo \ |STYLE4|\ 
 
 A destra si aprirà la tab per inserire il vostro commento.
 
@@ -51,13 +51,11 @@ A destra si aprirà la tab per inserire il vostro commento.
 
 .. |STYLE1| replace:: **12 gennaio 2021**
 
-.. |STYLE2| replace:: **<\`\`**
+.. |STYLE2| replace:: **Sign up**
 
-.. |STYLE3| replace:: **Sign up**
+.. |STYLE3| replace:: **Hypotes.is**
 
-.. |STYLE4| replace:: **Hypotes.is**
-
-.. |STYLE5| replace:: **“Annotate”, cliccate.**
+.. |STYLE4| replace:: **“Annotate”, cliccate.**
 
 
 .. |REPLACE1| raw:: html
