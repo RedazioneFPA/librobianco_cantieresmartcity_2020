@@ -12,7 +12,7 @@ Si utilizza lo strumento \ |LINK1|\ , già utilizzato da FPA nel 2018 per la red
 
 Il suo utilizzo è molto semplice. Per inserire commenti:
 
-Cliccate sul simbolo \ |STYLE2|\  in alto a destra della pagina.
+Cliccate sul simbolo \`\`\ |STYLE2|\  in alto a destra della pagina.
 
 |REPLACE1|
 
@@ -51,7 +51,7 @@ A destra si aprirà la tab per inserire il vostro commento.
 
 .. |STYLE1| replace:: **12 gennaio 2021**
 
-.. |STYLE2| replace:: **<**
+.. |STYLE2| replace:: **<\`\`**
 
 .. |STYLE3| replace:: **Sign up**
 
