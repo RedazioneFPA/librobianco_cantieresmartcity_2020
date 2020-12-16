@@ -23,6 +23,8 @@ Nell’ottica di attuare in maniera stabile e duratura un cambio di paradigma ch
 
 * Aumentare le \ |STYLE8|\  interne alla PA per la costruzione di una nuova domanda di servizi e per innovare le opportunità di \ |STYLE9|\ .
 
+|
+
 
 |REPLACE2|
 
@@ -35,6 +37,8 @@ Un dialogo multilivello efficace, un’informazione adeguata ai cittadini, mecca
 * attivazione di \ |STYLE11|\  sui servizi e le agevolazioni disponibili, interoperabili con altre piattaforme abilitanti per la finalizzazione delle domande;
 
 * implementazione di \ |STYLE12|\ .
+
+|
 
 
 |REPLACE3|
