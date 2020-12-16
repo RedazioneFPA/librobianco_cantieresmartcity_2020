@@ -20,7 +20,7 @@ Team redazionale del Libro Bianco Responsive Cities 2020 di FPA
     
     * Eleonora Bove, Senior Content Manager FPA 
     
-    * \ |LINK1|\ , supporto per la visualizzazione dei testi su :guilabel:`Read the Docs`, gestione del progetto su \ |LINK2|\ , e utilizzo di `Hypothes.is` per la partecipazione.
+    * \ |LINK1|\ , supporto per la visualizzazione dei testi su :guilabel:`Read the Docs`, gestione del progetto su \ |LINK2|\ , e utilizzo di ``Hypothes.is`` per la partecipazione.
 
 .. _h1d445122d6a85e43702145916035:
 
