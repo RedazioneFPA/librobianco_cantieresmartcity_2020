@@ -12,7 +12,7 @@ Si utilizza lo strumento \ |LINK1|\ , già utilizzato da FPA nel 2018 per la red
 
 Il suo utilizzo è molto semplice. Per inserire commenti:
 
-Cliccate sul simbolo ``<`` in alto a destra della pagina.
+Cliccate sul simbolo :class:`<` in alto a destra della pagina.
 
 |REPLACE1|
 
