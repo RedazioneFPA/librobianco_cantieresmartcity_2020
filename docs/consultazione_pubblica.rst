@@ -8,7 +8,10 @@ A partire dal \ |STYLE0|\  e fino al \ |STYLE1|\ , il Libro Bianco delle Respons
 
 :guilabel:`Come commentare e proporre nuovi punti di attenzione`
 
-Si utilizza lo strumento \ |LINK1|\ , già utilizzato da FPA nel 2018 per la redazione partecipata del \ |LINK2|\ .
+
+.. class:: procedura
+
+    Si utilizza lo strumento \ |LINK1|\ , già utilizzato da FPA nel 2018 per la redazione partecipata del \ |LINK2|\ .
 
 Il suo utilizzo è molto semplice. Per inserire commenti:
 
