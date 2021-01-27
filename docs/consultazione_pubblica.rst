@@ -53,7 +53,7 @@ A destra si aprirà la tab per inserire il vostro commento.
 
 .. |STYLE0| replace:: **16  dicembre 2020**
 
-.. |STYLE1| replace:: **12 gennaio 2021**
+.. |STYLE1| replace:: **2 febbraio 2021**
 
 .. |STYLE2| replace:: **Sign up**
 
