@@ -15,15 +15,68 @@ Nell’ottica di attuare in maniera stabile e duratura un cambio di paradigma ch
 
 * Abilitazione di \ |STYLE2|\  per il monitoraggio e la gestione delle fragilità funzionali e sociali del sistema cittadino;
 
+.. admonition:: Contributo di Carlo Geri
+
+    Si segnalano, le iniziative già in corso, come la \ |LINK1|\  per i Senzatetto o la \ |LINK2|\  del Comune di Milano e di Cinisello Balsamo.
+
+
+.. admonition:: Contributo di Massimo Casa
+
+    * “Deciso investimento sulla condivisione dei dati tra PA centrali, regionali, altri enti (Agenzia Entrate, Catasto, Regioni, ecc.) e amministrazioni comunali, con la massima interoperabilità: “si pensi ad un "fascicolo digitale del cittadino", sul modello di Milano, accessibile dalla piattaforma del comune, alimentato da diverse fonti (tributarie, fiscali, sociali, anagrafiche, territoriali, ecc.). Analogamente, superando la vecchia logica catastale, andrebbe creato, in sinergia tra amministrazione centrale e locale, su base GIS, un fascicolo digitale per ogni fabbricato e unità immobiliare, arricchito di tutte le informazioni territoriali ed interoperabile con le informazioni dei cittadini e delle imprese. Nei comuni che hanno un Catasto digitale (ad es.Bergamo) il progetto può nascere “dal basso” per iniziativa comunale e poi riproposto in altre realtà.
+
+
+.. admonition:: Contributo di Rosa Di Palma, dirigente del Comune di Barletta
+
+    * Tanto il CAD - Codice dell’Amministrazione Digitale (all’art. 60 “Base dati di interesse nazionale”, comma 3 bis) quanto il testo aggiornato del DECRETO LEGISLATIVO 7 marzo 2005, n. 82 (all’art. 62) dovrebbero prevedere un’ Anagrafe Nazionale Immobiliare Digitale (ANID). Obiettivi dell’ ANID potranno essere: la semplificazione amministrativa della gestione del patrimonio immobiliare pubblico e privato; la prevenzione dei rischi; l’accelerazione del processo di automazione amministrativa e il miglioramento dei servizi per i cittadini.
+    
+    L'ANID potrà integrare, per tutte le finalità previste dalla normativa vigente, il Catasto dei Fabbricati, istituito con l’emanazione del decreto-legge 30 dicembre 1993, n. 557, convertito con modificazioni dalla legge 26 febbraio 1994, n. 133, nel rispetto della titolarità dei dati ivi presenti, il cui aggiornamento potrà essere assicurato dai rispettivi titolari in cooperazione applicativa. 
+    
+    L'ANID potrà assicurare la disponibilità dei dati e degli strumenti per lo svolgimento delle funzioni di competenza dei Comuni, dei professionisti e dei cittadini e di ogni altro soggetto titolare e/o fruitore legittimato alla gestione degli stessi e garantisce l'accesso ai dati in essa contenuti da parte delle pubbliche amministrazioni per le relative finalità istituzionali, secondo le modalità di cui all'articolo 60, comma 2-bis del presente CAD. 
+    
+    Con il subentro dell'ANID potrà essere istituito il fascicolo elettronico del fabbricato, che andrà redatto obbligatoriamente per i nuovi edifici non ancora collaudati. Il fascicolo riferito a un fabbricato strutturalmente indipendente e alle sue pertinenze dovrà contenere le informazioni riguardanti la situazione progettuale, urbanistica, edilizia, catastale, strutturale, impiantistica e gli estremi degli atti autorizzativi. Sarà facoltà dei cittadini accedere in rete ai dati contenuti nell'ANID, secondo le modalità di cui al comma 1 dell'articolo 6 del CAD, ovvero richiedendo presso il Comune di competenza la copia analogica del fascicolo digitale, secondo le modalità di cui all’art. 23 del CAD.
+    
+    La gestione dei dati del fascicolo, per i fabbricati pubblici, potrà essere demandata all’amministrazione pubblica che ne detiene l’intestazione mentre la consultazione potrà essere consentita anche al soggetto che, a vario titolo, ne detiene il possesso.
+    
+    Tra i contenuti dell'ANID dovrebbero essere inclusi: codice fabbricato; dati catastali; titoli edilizi; planimetrie dei fabbricati; collegamento alle visure catastali delle singole unità immobiliari; titoli di proprietà; progetti di manutenzione ordinaria e straordinaria; certificati di autorizzazione e di agibilità rilasciati dalle autorità competenti; certificati di conformità degli impianti; certificati di collaudo statico e/o sismico; riferimenti dei contratti di locazione;  dotazioni digitali e tecnologiche.
+    
+    Dovrebbe altresì essere esplicitato un piano graduale di subentro all’ANID e i criteri di interoperabilità con le altre banche dati di rilevanza nazionale, regionale e comunale, nel rispetto della normativa sulla protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, e delle regole tecniche del sistema pubblico di connettività, ai sensi del CAD”.
+
 * \ |STYLE3|\  finalizzata alla condivisione e al rilascio dei dati con finalità di pubblica utilità;
 
 * Sistemi di \ |STYLE4|\ ;
 
+.. admonition:: Contributo di Adriano Bisello
+
+    * “Aprire l’uso e condivisione dei dati anche a terze parti certificate così da permettere un’interazione positiva tra amministrazione locale e start up, sviluppatori, centri di ricerca”.
+
 * Secondo un “principio generativo di utilità”, \ |STYLE5|\  prodotti da diverse utilities presenti sul territorio per generare nuovi \ |STYLE6|\  informativi e, quindi, nuove dimensioni di presidio e di intervento;
+
+.. admonition:: Contributo di Massimo Casa
+
+    * “Creare un sistema pubblico condiviso dei dati, dove confluiscano anche i dati delle utilities e dei gestori delle reti infrastrutturali, che restituisca un quadro conoscitivo aggiornato in tempo reale, con le opportune precauzioni per la garanzia dei dati sensibili”.
 
 * Agevolare \ |STYLE7|\  per gli accordi multi – attoriali come, ad esempio, il “partenariato dell’innovazione” messo a disposizione dal legislatore (Art. 65 del Codice dei Contratti) nei casi in cui la peculiarità dei servizi da acquisire non possa essere soddisfatta ricorrendo a soluzioni già disponibili sul mercato;
 
 * Aumentare le \ |STYLE8|\  interne alla PA per la costruzione di una nuova domanda di servizi e per innovare le opportunità di \ |STYLE9|\ .
+
+.. admonition:: Contributo di Adriano Bisello
+
+    * “Implementare all’interno dell’amministrazione locale una formazione specifica di responsabili e figure apicali di settori all'approccio integrato richiesto dalla Smart City in modo da rompere la tradizionale struttura compartimentata della PA”.
+
+
+.. admonition:: Contributo/1 di Franco Amigoni, Assessore all’Innovazione del Comune di Fidenza
+
+    “Proprio ragionando sugli attori, a cominciare dalle utilities che spesso raccolgono molteplici soggetti territoriali, le control rooms potrebbero essere pensate anche come un nuovo "punto di cristallizzazione" attorno al quale coagulare dati ed elaborazioni di gruppi di comuni di minori dimensioni. È fondamentale che d'ora in poi, per chi non lo avesse già metabolizzato all'interno del proprio sistema di governance, ogni contratto e ogni progetto vengano impostati nella logica della implementazione di banche dati accessibili e interoperabili, possibilmente seguendo ontologie standardizzate a livello europeo. La cittadinanza attiva in questo caso si può coniugare ottimamente con "control rooms" organizzate secondo criteri di decentralizzazione delle fonti. Un esempio può essere quello delle "Centraline dal Basso" per il monitoraggio della qualità dell'aria (PM10, PM 2,5 e NO2) tramite sensori low cost, che in realtà di medio piccole dimensioni come Fidenza hanno consentito di raccogliere dati ogni 5 secondi h24 su decine di punti del territorio avendo come "tutor", nella grande maggioranza dei casi, singoli cittadini che hanno aderito all'iniziativa e hanno attivato il sensore presso le proprie abitazioni. In questi casi gli enti locali ai vari livelli e gli istituti dedicati devono essere facilitatori di una convergenza tra cultura amministrativa e cultura civica. Il crowdsourcing grazie ad un incontro corretto tra organizzazione e nuove tecnologie può essere decisivo in questo senso. Oggi le professionalità per analizzare i dati e modellizzarli per tradurli in azioni coerenti sono ancora poco diffuse, e andranno distribuite”.
+
+
+.. admonition:: Contributo/2 di Franco Amigoni, Assessore all’Innovazione del Comune di Fidenza
+
+    “I progetti dedicati all'ambiente e al "green new deal" devono essere pensati in un’ottica di sistema. Al livello locale la “produzione della sostenibilità” può realizzarsi attraverso capacità di monitoraggio supportate dalla sensoristica integrata. Realtà come ARPA e altre potranno beneficiare, ad esempio, degli open data prodotti a livello locale con centraline low cost, attivando percorsi di certificazione condivisa e integrando dati. Occorre essere in grado di moltiplicare le fonti affidabili a livello territoriale facendo leva sulla cittadinanza attiva”
+
+
+.. admonition:: Contributo di Massimo Casa
+
+    “Colpisce che, a un anno dall’esplosione della pandemia e all'alba del 2021 non vi sia ancora una piattaforma di monitoraggio dei dati sul Covid-19 digitale, interoperabile ed aggiornabile in tempo reale da tutti i soggetti preposti al tracciamento (Ministero, Regioni, Comuni, ATS, ospedali e, magari, anche medici di base). I dati vengono ancora trasmessi tra un ente e l'altro, con cadenza più o meno frequente, e spesso con modalità disomogenee di rilevazione. Andrebbe, piuttosto, creata una piattaforma digitale partecipata, che offra la possibilità di un accesso controllato pubblico ai dati e che responsabilizzi i vari soggetti istituzionali nell’inserimento di tutte le informazioni in un ambiente condiviso volto a superare la logica dell'adempimento.  Le aggregazioni finali di dati, che determinano attualmente i colori delle regioni (rosso, arancio, giallo), dovrebbero avere alla base dati grezzi, certificati da chi è responsabile della loro produzione e visibili a tutti” .
 
 |
 
@@ -31,6 +84,10 @@ Nell’ottica di attuare in maniera stabile e duratura un cambio di paradigma ch
 |REPLACE2|
 
 Durante i mesi della pandemia le città hanno sviluppato diverse forme di collaborazione inter-istituzionale – attraverso tavoli di confronto con le istituzioni regionali e centrali – e inter-attoriale, con azioni di coinvolgimento degli stakeholder del territorio sia nei meccanismi di controllo dell’epidemia che nell’elaborazione e condivisione di strategie per il superamento delle attuali criticità.
+
+.. admonition:: Contributo di Massimo Casa
+
+    Si ricorda, a tal proposito, “l'accordo di collaborazione in atto tra i comuni di Bergamo, Brescia, Mantova, Cremona (Lombardia est) su diversi temi, tra i quali l'ICT e l'innovazione, lo scambio di esperienze e le ipotesi di collaborazione (es. disaster recovery comune, SPID, ANPR, PagoPA, ecc.)”.
 
 Un dialogo multilivello efficace, un’informazione adeguata ai cittadini, meccanismi di coordinamento e di engagement sono essenziali per alleggerire le tensioni tra i livelli di governo e gestire le situazioni critiche. A tal fine si rendono necessari i seguenti interventi:
 
@@ -40,6 +97,35 @@ Un dialogo multilivello efficace, un’informazione adeguata ai cittadini, mecca
 
 * implementazione di \ |STYLE12|\ .
 
+.. admonition:: Contributo di Massimo Casa
+
+    * “Creazione di piattaforme/ambienti digitali dei servizi pubblici e di uso pubblico presenti nelle città, alimentate da tutti i soggetti pubblici e privati coinvolti (modello E015). Questo quadro comunale dei servizi, può far parte del Piano dei Servizi allegato al PGT comunale, non come una "foto" da aggiornare periodicamente con tutte le lungaggini burocratiche del caso, ma come una banca dati interoperabile, snella, aggiornata in tempo reale e a disposizione della collettività”.
+
+
+.. admonition:: Contributo di Franco Amigoni, Assessore all’Innovazione del Comune di Fidenza
+
+    * “Valorizzare le professionalità e le competenze richieste per gestire nel modo migliore i processi partecipati, sia interne che esterne. Si tratta di competenze di nuova generazione e concezione, talvolta sottostimate ma in realtà fondamentali, che in una certa misura dovranno via via essere metabolizzate anche all'interno degli enti”.
+
+
+.. admonition:: Contributo di CPina
+
+    * “Implementare un modello di data governance collaborativa aperto agli stakeholder, capace di gestire l'intero ciclo di vita dei dati e attivare iniziative di riuso, per estrarre valore pubblico, attraverso team di lavoro professionali e multidiscliplinari”.
+
+
+.. admonition:: Contributo di Tommaso Davi
+
+    * “Oggi nelle nostre città si manifesta un nuovo sistema organizzativo del contesto urbano che non si basa solo sulla materialità e prestazione dello stesso ma è inclusivo della intelligenza interattività e connettività delle sue componenti, siano esse fisiche o digitali e che ne costituiscono la nuova piattaforma urbana. [...] Il ricco capitale sociale unitamente al patrimonio artistico storico e culturale presente nelle città italiane e, in più ampio senso, la sua diversità, sono elementi che senza dubbio ne contraddistinguono la nostra esperienza di vita, un patrimonio che impatta in maniera significativa non solo gli elementi materiali ma anche quelli immateriali che concorrono nella formazione di una “nuova piattaforma urbana italiana. 
+    
+    [...] È in un momento storico come questo, dove si manifestano sfide e opportunità senza precedenti che il capitale sociale della città, inteso come l'insieme della società civile che fattivamente partecipa alla sua vita, unitamente agli attori del patrimonio storico-artistico e culturale, possono condurre una duratura fase di ripresa, alimentando lo sviluppo di soluzioni adatte ad affrontare le criticità più pressanti, sfruttando i naturali legami sistemici e trasversali fra le componenti di una data piattaforma urbana e garantendo così un adeguato, efficiente e tempestivo impiego di logiche di priorità oltre che di strumenti operativi per la risoluzione della crisi e il sostegno alla ripresa a vantaggio della città stessa.
+    
+    Proprio questa è la dinamica che le istituzioni, unitamente al terzo settore, sono chiamate a facilitare:
+    
+        * esercitando strategie che rafforzino i legami e la collaborazione tra cittadini, amministrazione comunale ed enti pubblici; 
+    
+        * integrando, laddove possibile, veri e propri think-tank civici, agili catalizzatori di relazioni con il settore privato per massimizzare le opportunità di co-progettazione necessarie per validare le soluzioni più  innovative;
+    
+        * contribuendo a suggerire al governo centrale iniziative urgenti e concrete per lo sviluppo di città italiane sempre più inclusive e resilienti adatte per l’era Post-Covid”.
+
 |
 
 
@@ -47,17 +133,57 @@ Un dialogo multilivello efficace, un’informazione adeguata ai cittadini, mecca
 
 Durante i mesi del \ |STYLE13|\ , il ricorso improvviso e in maniera massiva allo \ |STYLE14|\  per molte categorie di lavoratori e le limitazioni alla mobilità urbana hanno suggerito il ripensamento dei modelli d’uso della città e del territorio secondo un nuovo paradigma che tenga conto del \ |STYLE15|\  e della \ |STYLE16|\  come variabili principali per la destinazione e la distribuzione dei servizi.
 
-Quello che, non solo città internazionali, ma diverse città italiane stanno guardando con interesse è il paradigma della “\ |LINK1|\ ”, che prevede:
+Quello che, non solo città internazionali, ma diverse città italiane stanno guardando con interesse è il paradigma della “\ |LINK3|\ ”, che prevede:
 
 * \ |STYLE17|\  in un contesto non più di segmentazione e specializzazione ma di integrazione e di “mix funzionale”;
+
+.. admonition:: Contributo di Adriano Bisello
+
+    “Il mix funzionale è inoltre alla base del concetto di ottimizzazione energetica a scala di quartiere, fortemente spinto dalla UE all'interno del SET PLAN 3.2 (Positive Energy District)” .
 
 * \ |STYLE18|\  per facilitare l’attività di incontro e di \ |STYLE19|\  all’aperto;
 
 * incentivazione della \ |STYLE20|\ 
 
+.. admonition:: Contributo/1 di Franco Amigoni, Assessore all’Innovazione del Comune di Fidenza
+
+    “La straordinaria centralità funzionale dell'abitazione "aumentata" e rigenerata dagli interventi di incentivazione e di modifica dei flussi di persone e di dati deve trovare una nuova coniugazione con le offerte della città pubblica; nuovi legami e nuove modalità di sintesi dei bisogni e dei desideri. Il crinale pubblico/privato è destinato ad assumere nuovi significati”.
+
+
+.. admonition:: Contributo/2 di Franco Amigoni, Assessore all’Innovazione del Comune di Fidenza
+
+    “Alla luce delle considerazioni emergenti sull'uso della città, ci si domanda quale sarà il profilo urbano al 2030, o comunque in un lasso di tempo sufficiente al dispiegarsi degli effetti dell'onda lunga della crisi, se non saranno più necessari gli spazi direzionali centrali, quantomeno nella misura attuale, se non saranno più necessari per gli effetti congiunti di e-commerce e cultura digitale diffusa i negozi "in sede fissa" con le caratteristiche attuali, se anche il residenziale non verrà sufficientemente aggiornato e ripopolato tramite iniziative convergenti a partire dal superbonus 110. La città potrebbe perdere la propria identità consolidata nel corso dei secoli. 
+    
+    Qui si pone una domanda che già il diffondersi di Amazon in Italia nel 2010 aveva posto: la governance locale e nazionale deve attivamente impedire questo scenario e imporne un altro, di rinnovamento dell'identità secolare urbana attraverso la sua reingegnerizzazione socio economica? Se la risposta è affermativa, con tutte le difficoltà legate al contrasto di una tendenza di lungo periodo, qual è il modello di comunità urbana del ventunesimo secolo cui la programmazione pubblica deve assicurare un luogo? Ragionare oggi in termini di "Piano Regolatore" evidenzia tutti i limiti in questa nuova fase, a meno di ripensare alla radice logiche, obiettivi e strumenti”.
+
+
+.. admonition:: Contributo/1 di LyLilly
+
+    * Porre servizi essenziali come la sanità pubblica e la scuola “al centro della Città”, attraverso una dotazione diffusa territoriale di base, in grado di rappresentare un presidio permanente e un punto di contatto e di riferimento continuativo per i cittadini”
+
+
+.. admonition:: Contributo/2 di LyLilly
+
+    * “Investire sui mezzi pubblici per favorire un loro maggiore e diffuso utilizzo da parte delle categorie più “fragili”: anziani, bambini e donne”
+
+
+.. admonition:: Contributo/3 di LyLilly
+
+    * “Ampliare gli orari di apertura delle scuola al pomeriggio e favorirne un loro utilizzo anche durante il periodo estivo”.
+
+
+.. admonition:: Contributo/4 di LyLilly
+
+    * “Liberare” gli spazi inutilizzati o sotto-utilizzati delle città per favorirne l’uso sociale e ricreativo”.
+
+
+.. admonition:: Contributo/3 di Franco Amigoni, Assessore all’Innovazione del Comune di Fidenza
+
+    “Le città cambieranno il proprio volto sia per le spinte centrifughe generate fra l'altro dalle conseguenze del lavoro agile, sia per le spinte centripete generate ad esempio dalla necessità di un massiccio riuso degli spazi pubblici per ampliare la capacità di assorbimento dei visitatori nel rispetto dei nuovi codici di comportamento pubblici; tali comportamenti saranno ridimensionati superata la fase acuta della pandemia ma lasceranno una traccia visibile in una rinnovata cultura dell'uso dello spazio urbano”.
+
 --------
 
-\ |LINK2|\ .
+\ |LINK4|\ .
 
 .. bottom of content
 
@@ -107,7 +233,7 @@ Quello che, non solo città internazionali, ma diverse città italiane stanno gu
 
 .. |REPLACE1| raw:: html
 
-    <span style="background-color:#1b70c4; color: #ffffff; display: inline-block; padding: 1px 7px; border-radius: 4px;">ACCELERAZIONE DEI PROCESSI DI TRASFORMAZIONE DIGITALE PER IL MONITORAGGIO DEL TERRITORIO E UN’AZIONE TEMPESTIVA ED INFORMATA</span> 
+    <span style="background-color:#1b70c4; color: #ffffff; display: inline-block; padding: 1px 7px; border-radius: 4px;">ACCELERAZIONE DEI PROCESSI DI TRASFORMAZIONE DIGITALE PER IL MONITORAGGIO DEL TERRITORIO E UN’AZIONE TEMPESTIVA, INFORMATA E CONDIVISA</span> 
 .. |REPLACE2| raw:: html
 
     <span style="background-color:#1b70c4; color: #ffffff; display: inline-block; padding: 1px 7px; border-radius: 4px;">GOVERNANCE COLLABORATIVA</span> 
@@ -117,9 +243,17 @@ Quello che, non solo città internazionali, ma diverse città italiane stanno gu
 
 .. |LINK1| raw:: html
 
-    <a href="https://forumpa2020.eventifpa.it/it/event-details/?id=9682" target="_blank">città dei 15 minuti</a>
+    <a href="https://www.comune.milano.it/aree-tematiche/servizi-sociali/raccolta-dati-personali-per-interventi-di-emergenza" target="_blank">Tessera Salvavita</a>
 
 .. |LINK2| raw:: html
+
+    <a href="https://www.comune.milano.it/aree-tematiche/servizi-sociali/raccolta-dati-personali-per-interventi-di-emergenza" target="_blank">Busta Rossa</a>
+
+.. |LINK3| raw:: html
+
+    <a href="https://forumpa2020.eventifpa.it/it/event-details/?id=9682" target="_blank">città dei 15 minuti</a>
+
+.. |LINK4| raw:: html
 
     <a href="https://hypothes.is/stream.rss?uri=https://librobianco-responsive-city-fpa-2020.readthedocs.io/it/latest/4.Capitolo.html" target="_blank">Flusso XML dei commenti su questa pagina</a>
 
