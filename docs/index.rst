@@ -11,8 +11,6 @@ Il :guilabel:`Libro Bianco delle Responsive Cities 2020` è il risultato di un p
 
 Il Libro Bianco delle Responsive Cities 2020 di FPA è stato pubblicato e posto in consultazione pubblica online \ |STYLE0|\ . Questa è la versione che accoglie tutti i commenti e le proposte di integrazione ricevute dalla community di FPA, nel periodo sopra indicato.
 
-|
-
 .. toctree::
   :maxdepth: 2
 
