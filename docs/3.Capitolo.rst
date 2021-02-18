@@ -46,7 +46,7 @@ Se non ora quando? Quando si avrà di nuovo l’opportunità di investire risors
 
 .. |LINK1| raw:: html
 
-    <a href="https://www.corriere.it/economia/tasse/20_dicembre_07/pnrrbozzapercdm7dic2020-7908fa02-3898-11eb-a3d9-f53ec54e3a0b.shtml" target="_blank">Piano Nazionale di Ripresa e Resilienza</a>
+    <a href="http://www.politicheeuropee.gov.it/it/comunicazione/approfondimenti/pnrr-approfondimento/" target="_blank">Piano Nazionale di Ripresa e Resilienza</a>
 
 .. |LINK2| raw:: html
 
