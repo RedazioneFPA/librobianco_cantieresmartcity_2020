@@ -9,6 +9,8 @@ Presentazione del Libro Bianco delle Responsive Cities 2020 di FPA
 
 Il :guilabel:`Libro Bianco delle Responsive Cities 2020` è il risultato di un percorso di analisi e approfondimento promosso nel corso del 2020 da \ |LINK1|\  e dedicato alle città e alla loro capacità di risposta all’emergenza sanitaria. L’obiettivo è stato quello di individuare e definire problemi e potenzialità comuni ai diversi territori, attraverso il confronto tra decision maker e stakeholder delle principali amministrazioni locali, al fine di definire percorsi e strumenti necessari a supportare processi decisionali delle amministrazioni locali.
 
+Il Libro Bianco delle Responsive Cities 2020 di FPA è stato pubblicato e posto in consultazione pubblica online \ |STYLE0|\ . Questa è la versione che accoglie tutti i commenti e le proposte di integrazione ricevute dalla community di FPA, nel periodo sopra indicato.
+
 |
 
 .. toctree::
@@ -49,6 +51,9 @@ Il :guilabel:`Libro Bianco delle Responsive Cities 2020` è il risultato di un p
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **dal 16 dicembre 2020 al 2 febbraio 2021**
 
 
 .. |REPLACE1| raw:: html
