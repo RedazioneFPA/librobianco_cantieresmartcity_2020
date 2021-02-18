@@ -21,7 +21,6 @@ Il Libro Bianco delle Responsive Cities 2020 di FPA è stato pubblicato e posto 
     :maxdepth: 3
     :caption: indice 
 
-    consultazione_pubblica
     0.Introduzione
     1.Capitolo
     2.Capitolo
