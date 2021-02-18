@@ -14,11 +14,16 @@ La \ |STYLE3|\  delle forze di protezione civile e del volontariato è stata ric
 
 Al contempo, il digitale ha reso possibili, trasversalmente, tutte le azioni e le iniziative attivate: dalla gestione dei processi interni alla macchina amministrativa all’erogazione dei servizi ai cittadini, alla comunicazione e condivisione dei processi.
 
-Sul fronte della \ |STYLE4|\  è emersa con molta chiarezza \ |STYLE5|\ : si pensi all’affannosa ricerca di dati credibili sull’andamento della mobilità o alla sperimentazione di modalità innovative per l’individuazione degli “assembramenti”.
+Sul fronte della \ |STYLE4|\  è emersa con molta chiarezza \ |STYLE5|\ : si pensi alla affannosa ricerca di dati credibili sull’andamento della mobilità o alla sperimentazione di modalità innovative per l’individuazione degli “assembramenti”.
 
 Digitale e solidarietà hanno abilitato e dato concreta attuazione agli altri “ingredienti” della “\ |STYLE6|\ ”: la \ |STYLE7|\ , per la messa in campo di soluzioni rapide, originali, in condizioni di generale carenza di risorse; l’\ |STYLE8|\  delle esigenze e delle domande del territorio; la \ |STYLE9|\  \ |STYLE10|\  con il proprio personale, \ |STYLE11|\  con gli altri livelli di governo e \ |STYLE12|\  con le forze del territorio; la \ |STYLE13|\ : «i Comuni», ha sottolineato Antonio Decaro nel corso dell’incontro a \ |STYLE14|\  del 25 settembre, «hanno abdicato – responsabilmente – all’autorità che l’art. 50 del TUEL conferisce loro in materia sanitaria, cedendo al governo centrale e alle regioni un’intera parte del proprio potere e della propria autonomia, per evitare il rischio che 8.000 centri decisionali diversi vanificassero lo sforzo collettivo di contrasto al COVID-19».
 
 Le indagini e le rilevazioni effettuate da FPA – soprattutto: \ |LINK1|\  nella sua “\ |STYLE15|\ ”– hanno dato effettivamente evidenza dell’\ |STYLE16|\ . Evidentemente i limiti alla mobilità e ai contatti fisici hanno consentito di vincere molte resistenze non solo \ |STYLE17|\  ma anche \ |STYLE18|\  da parte dei cittadini (facilitato dalla progressiva diffusione delle piattaforme tecnologiche standardizzate come Spid o Pagopa) e \ |STYLE19|\  (crescita dell’uso dei social media e delle app di pubblico interesse per dispositivi mobili). 
+
+
+.. admonition:: Commento di Massimo Casa
+
+    “Le amministrazioni più “avanzate” digitalmente sono riuscite addirittura ad affinare le loro performances favorendo al contempo la crescita e l’attitudine digitale dei propri cittadini”.
 
 Di fronte alla permanenza del tema delle \ |STYLE20|\  il problema cruciale che oggi si pone con forza a livello urbano è quello della \ |STYLE21|\ , sia all’interno delle amministrazioni (in termini di \ |STYLE22|\  e di \ |STYLE23|\ ) sia tra i cittadini.
 
@@ -95,4 +100,4 @@ La questione, quindi, non dovrebbe essere “se” investire sulle città, ma �
 .. rubric:: Footnotes
 
 .. [#f1]  +568% a Bergamo, +401% a Cremona, +377% a Lodi, +291% a Brescia, +264% a Piacenza, +208% a Parma, +174% a Lecco, +133% a Pavia, del +122% a Mantova, del +120% a Pesaro e Urbino (dati Istat, 2020).
-.. [#f2]  Dall’evento dedicato alle città di “Forum PA/resilienza digitale” del 9 luglio, ai 3 appuntamenti sui “Cantieri della Smart City” di giugno, settembre e novembre, all’incontro nell’ambito di Modena Smart Life del 25 settembre, all’evento dedicato alle città nell’ambito di Forum PA/Restart Italia del 4 novembre 2020.
+.. [#f2]  Dall’evento dedicato alle città di “Forum PA/resilienza digitale” del 9 luglio, agli appuntamenti del “Cantiere Smart City” di giugno, settembre e novembre, all’incontro nell’ambito di Modena Smart Life del 25 settembre, all’evento dedicato alle città nell’ambito di Forum PA/Restart Italia del 4 novembre 2020.
