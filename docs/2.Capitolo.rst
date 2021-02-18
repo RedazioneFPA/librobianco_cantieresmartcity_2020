@@ -29,6 +29,10 @@ Gli strumenti individuati per consolidare nel futuro una relazione più articola
 
 * attivazione di portali unici per l’informazione alla cittadinanza sui servizi e le agevolazioni disponibili, interoperabili con altre piattaforme abilitanti per la finalizzazione delle domande.
 
+.. admonition:: Contributo di Sebastiano Callari, Assessore della Regione Friuli Venezia Giulia e coordinatore della Commissione speciale Agenda Digitale della Conferenza delle Regioni e delle Province Autonome
+
+    “La devastante pandemia in atto ci obbliga a ripensare - insieme alle nostre vite- il funzionamento delle nostre città e ci spinge verso scelte politiche forti e decisive a tutti i livelli. Scelte innovative e “rivoluzionarie”, in grado di avviare le città alla transizione digitale ed ecologica, solido binomio che richiede una contemporanea evoluzione. Durante questi mesi i centri abitati hanno risposto bene alla crisi in atto e all’emergenza sanitaria con iniziative di aiuto, cura e solidarietà. Tuttavia, questo periodo ha evidenziato il bisogno di “un’altra città”, meno fragile, più conosciuta, più partecipata e condivisa, più compatibile e digitale. Abbiamo capito che la città deve vivere la salute quale dimensione pubblica in grado di vedere i cittadini partecipi della cura quotidiana degli spazi collettivi, che le istituzioni devono riconsegnare come bene comune. La città deve essere solidale e, quindi, non deve creare disuguaglianze e distanze sociali, ma crescere in una dimensione comunitaria”.
+
 |
 
 .. _hd2724311e2c47541f6480556fb79:
@@ -40,7 +44,25 @@ Gli strumenti individuati per consolidare nel futuro una relazione più articola
 
 Il secondo ambito di riflessione e di intervento è quello dei \ |STYLE5|\  del territorio cittadino, in proporzioni differenti, pianificati o spontanei, ma comunque appoggiati su dinamiche estensive e intensive di mobilità (quella residenza-lavoro ma anche quelle legate all’accesso ai servizi o alla relazionalità) che nei mesi della crisi sono venute meno evidenziando la necessità di proseguire non solo i percorsi di incentivazione delle varie forme di \ |STYLE6|\  ma anche il ripensamento della distribuzione spaziale degli spazi e dei servizi urbani.
 
-Non stupisce il successo ottenuto nel corso del 2020 dal paradigma urbano della \ |STYLE7|\ , orientato a mettere al centro il cittadino, la prossimità ai servizi fondamentali e il tempo, come dimensione da liberare, soprattutto, dalle costrizioni degli spostamenti quotidiani casa-lavoro e dei flussi di traffico veicolare.
+.. admonition:: Contributo di Martino Pirella
+
+    “E’ facile immaginare che abbastanza rapidamente le aziende si rendano conto di quanto loro sedi fisiche siano enormemente sovradimensionate. Gli enormi palazzi ad uffici dove lavoravano migliaia di persone, così costosi in termini di affitto e manutenzione, forse non sono più così necessari. È quindi ben difficile pensare che, anche ad emergenza finita, si possa tornare indietro. Si potrebbe assistere ad uno svuotamento importante delle aree direzionali delle città, un tempo piene di attività, di persone, di movimento, di indotto (basti pensare banalmente a tutte le attività commerciali e di ristorazione di supporto agli uffici durante la pausa pranzo).
+    
+    Tale dinamica potrebbe portare ad una rilevante modificazione dei valori immobiliari di aree un tempo pregiate e costose, oggi e nel futuro sempre meno ricercate e preziose. Una trasformazione che potrebbe riguardare non solo il settore degli uffici, ma, a catena, come in un contagio, anche quello del mercato residenziale.
+    
+    Perché mai, infatti, continuare a sacrificare ampia parte del proprio reddito per vivere il più vicino possibile al luogo di lavoro quando è possibile lavorare da casa e recarsi in ufficio solo un paio di volte alla settimana?
+    
+    Se questo è verosimile, lo è altrettanto l’impatto che tutto ciò può avere da un lato sul sistema dei trasporti e degli investimenti pubblici in infrastrutture, dall’altro sulla qualità della domanda residenziale, che, verosimilmente, potrebbe orientarsi su modelli insediativi meno centrali, addirittura esterni ai principali centri urbani, ma con più spazio interno: vani in più dove poter svolgere il proprio lavoro senza condividerlo con le attività domestiche o con gli altri membri della famiglia.
+    
+    Sommando tra loro queste possibili tendenze, sembra di poter intravedere l’avvio di una importante crisi del processo di urbanizzazione, forse la prima vera crisi profonda e radicale del modello urbano occidentale dalla sua affermazione. New York, da sempre città simbolo dell’occidente industrializzato e direzionale, ne è in questo momento, l’esempio più importante”.
+
+Secondo il rapporto della società immobiliare Cbre, gli investimenti sul mercato immobiliare “corporate”, ovvero su strutture quali uffici, logistica, alberghi o residenziale, dopo un 2019 da record, hanno registrato una contrazione del 29%. 
+
+Il “crollo” ha riguardato, in particolare, il cosiddetto take-up, ovvero l’assorbimento degli spazi da parte di chi affitta uffici e li va ad occupare: “nel 2020, Milano ha registrato infatti 277 mila mq di take-up, in calo del 41% sul 2019, mentre Roma ha registrato 123 mila mq, in calo del 56% rispetto all'anno precedente” Tra gli altri effetti, l'incertezza ha portato a far scendere "la quota di investitori stranieri si è ridotta al 58% rispetto a una media del 69% negli ultimi 5 anni; questo dato non segnala un minore interesse per il mercato italiano, ma un atteggiamento probabilmente più prudenziale e cautelativo dovuto alla situazione di incertezza causata dalla pandemia” (fonte: Repubblica, 14 gennaio 2021).
+
+Si tratta di un fenomeno sotto osservazione, al centro degli studiosi di demografia, urbanistica e analisi del settore immobiliare, tendenzialmente d’accordo sulla lettura dei dati ma molto prudenti sulle ipotesi per il futuro. 
+
+Non stupisce, in ogni caso, il successo ottenuto nel corso del 2020 dal paradigma urbano della \ |STYLE7|\ , orientato a mettere al centro il cittadino, la prossimità ai servizi fondamentali e il tempo, come dimensione da liberare, soprattutto, dalle costrizioni degli spostamenti quotidiani casa-lavoro e dei flussi di traffico veicolare.
 
 Nel modello proposto dal Dipartimento di Innovazione territoriale dell’Università La Sorbona di Parigi sotto la guida del prof. Carlos Moreno e adottato dal sindaco di Parigi Anne Hidalgo, che ne ha fatto oggetto di un assessorato, lo scopo è che ogni cittadino possa soddisfare alla distanza di \ |STYLE8|\  da casa propria \ |STYLE9|\ 
 
@@ -63,15 +85,58 @@ Un riferimento diretto alla città dei 15’ è rinvenibile anche nel \ |STYLE16
 
 Il quarto ambito di considerazione dei processi e delle vocazioni di innovazione urbana è quello della \ |STYLE17|\  tra amministrazioni, cittadini, operatori economici e gestori dei servizi. Anche questa dimensione si è dimostrata cruciale nelle circostanze di emergenza e risulta fondamentale sia nella gestione ordinaria della città, sia nella effettuazione delle scelte strategiche.
 
+
+.. admonition:: Contributo di Patrizia Cardillo, responsabile protezione e privacy di ARERA - Autorità di regolazione per Energia, Reti e Ambiente
+
+    “Non si può che essere d’accordo con questa affermazione che, a ben guardare, sottende un altro obiettivo primario: ricostruire la fiducia nella nostra pubblica amministrazione.
+    
+    La pandemia ci ha dimostrato che abbiamo bisogno di una pubblica amministrazione vicina ai cittadini che offra servizi, welfare, sanità, che faccia ricerca.
+    
+    Per anni demonizzata, evocata come la “madre di tutti i mali della nostra società”, obiettivo facile per una politica priva di idee, la pubblica amministrazione ha oggi una fortissima occasione di riscatto, a partire dalla condivisione delle esperienze, dal fare rete, dal fare un gioco di squadra in uno scambio osmotico continuo. È questa la chiave per la crescita: far sì che la strada trovata e sperimentata da uno, costituisca fattore di crescita per tutti. 
+    
+    Per far questo occorre mettere da parte ogni divisione e sviluppare e nutrire un principio di condivisione delle informazioni dal quale derivi la possibilità di accedere ai servizi in maniera semplice e in sicurezza.
+    
+    Affinchè ciò sia possibile, i dati e le informazioni che ci riguardano devono poter circolare.
+    Il Regolamento europeo 2016/679 ci indica la strada. 
+    Le indicazioni contemplate dai suoi 99 articoli non devono essere considerati meri adempimenti burocratici ma devono essere strumento di consapevolezza dei propri diritti e servire, piuttosto, ad assicurare la libera circolazione di dati e informazioni, possibile proprio nella misura in cui i principi di tutela vengano rispettati.
+    
+    Per “proteggere” i dati ci sono organismi di vigilanza europei e nazionali che, oltre a garantire un’applicazione uniforme e coerente del regolamento tra gli Stati Membri, promuovono cooperazione, assistenza, condivisione delle controversie.
+    
+    Tuttavia, è evidente che gli sforzi profusi a livello centrale (nazionale e comunitario), rischiano di risultare profondamente indeboliti se, a livello di cittadinanza, non si diffonde la cultura e la consapevolezza del valore dei dati e delle informazioni come volano di sviluppo. 
+    
+    Formazione e sensibilizzazione sono dunque obiettivi necessari per promuovere e diffondere un atteggiamento di “fiducia” e per condividere esperienze, così come auspicato in uno dei momenti di riflessione e di stimolo promossi da FPA per raccogliere le migliori esperienze che innovano e che stanno trasformando le nostre città”.
+
 Le città hanno collaborato con un’ampia gamma di attori, inclusi i governi nazionali e regionali, le parti interessate urbane e i cittadini, al fine di progettare e attuare risposte immediate a breve e lungo termine alle molteplici dimensioni della crisi COVID - 19.
 
-Nel suo intervento a FORUM PA - Restart Italia del 4 novembre 2020, il Ministro per gli Affari regionali e Autonomie, Francesco Boccia, ha evidenziato come la crisi pandemica abbia modificato le relazioni e intensificato il confronto tra Governo, Regioni ed Enti locali, trasformando la Conferenza Stato Regioni e la Conferenza unificata in un tavolo di confronto permanente.
+Nel suo intervento a FORUM PA - Restart Italia del 4 novembre 2020, il Ministro per gli Affari regionali e Autonomie ha evidenziato come la crisi pandemica abbia modificato le relazioni e intensificato il confronto tra Governo, Regioni ed Enti locali, trasformando la Conferenza Stato Regioni e la Conferenza unificata in un tavolo di confronto permanente.
 
 Le reti cittadine nazionali e internazionali\ [#F1]_\  sono state attive nello scambio di conoscenze e di esperienze e stanno giocando un ruolo chiave nel loro dialogo con i livelli centrali per chiedere azioni coordinate e un approccio olistico e integrato al recupero urbano e alla resilienza a lungo termine (si veda a questo proposito il \ |LINK1|\  presentato da ANCI al Governo).
 
 Un dialogo multilivello efficace e meccanismi di coordinamento sono essenziali per alleggerire le tensioni tra i livelli di governo e gestire le situazioni critiche.
 
 Analogamente, a livello locale, tra amministrazioni, cittadini e stakeholder del territorio si sono intensificate le azioni di coinvolgimento inter-attoriale (PA, cittadini, altri stakeholder del territorio), secondo un approccio dialogico e collaborativo, sia nei meccanismi di controllo dell’epidemia sia nell’elaborazione e condivisione di strategie per il superamento delle attuali criticità.
+
+.. admonition:: Contributo di Franco Amigoni, Assessore all’innovazione Comune di Fidenza
+
+    “In generale, un trend evidente che dovrà manifestare appieno le sue peculiarità è rappresentato dall'incremento del ruolo di una conduzione politica assertiva e proattiva. Non è stato possibile per gli amministratori "giocare di rimessa" con le politiche locali nel corso del 2020, e la domanda da porsi è se sia una esperienza consolidabile aldilà della temporaneità emergenziale, allo scopo di garantire un rinnovato significato alle auspicate partnership pubblico private e all'esigenza del volontariato di trovare un sostegno e un indirizzo chiaro sul territorio”.
+
+Un ulteriore contributo di riflessione su un rinnovato spazio politico e condiviso delle decisioni:
+
+.. admonition:: Contributo di Sebastiano Callari, Assessore della Regione Friuli Venezia Giulia e coordinatore della Commissione speciale Agenda Digitale della Conferenza delle Regioni e delle Province Autonome
+
+    ““Il digitale cambierà definitivamente la nostra vita (e in gran parte lo sta già facendo) e muterà profondamente le nostre città. Ma la transizione digitale, la più grande opzione che la storia ci offre per guardare ad un significativo miglioramento, potrebbe non essere priva di rischi: per il processo democratico, per l’uguaglianza e l’universalità, per i diritti fondamentali. Rischi che si scaricano innanzitutto sulle città, luogo di vita dei cittadini. Rischi che sta a noi contrastare.
+    
+    La grave emergenza in atto ha innescato uno stato d’eccezione e determinato l’avvento dei tecnici, sempre più presenti all’interno (e a fianco) delle burocrazie pubbliche e sempre di più influenti nella regolazione della vita dei cittadini. Una presenza che ha spinto - soprattutto su scala territoriale - ad una sorta di depoliticizzazione delle decisioni.
+    
+    Le città devono riappropriarsi della Politica, ovvero dell’esercizio responsabile del potere nelle decisioni ultime circa la vita della polis. 
+    
+    Una Politica che - superata la pandemia in atto e l’emergenza che l’accompagna - dovrà quindi saper ri-progettare “città digitali e verdi”, città che curano, che offrono occasioni di progresso per le proprie Comunità, che siano in grado di fare occupazione, di ripensare il welfare (che deve essere sempre più generativo), di fare giustizia sociale, di superare le crescenti disuguaglianze, la persistente disoccupazione e la precarizzazione delle forme di lavoro e che sappiano essere pronte e attive anche di fronte all’inatteso e all’imprevisto.
+    
+    È il digitale la chiave di volta del futuro delle nostre città e, quindi, della nostra vita. Col digitale cambia tutto: cambia il nostro modo di lavorare, di studiare ed apprendere, di comunicare, di curarci, di partecipare, di divertirci, di socializzare e di muoverci. E cambia, quindi, radicalmente anche il governo delle città e il nostro “modo di fare amministrazione e di fare politica”.
+    
+    Un cambiamento che dovrà mettere in discussione strumenti e metodi, norme e prassi, piani e programmi e che dovrà partire da un “Anno zero”, da una rifondazione dei nostri centri, ove il digitale assuma una dimensione trasversale in grado di “condizionare” positivamente ogni settore e ambito di azione pubblica e tutte le decisioni, ciascun lavoratore pubblico, tutti i decisori, i cittadini e gli stakeholder.
+    
+    Arrivo ad ipotizzare che ciascun atto amministrativo e ogni disposizione normativa debbano essere d’ora in avanti accompagnati da una sorta di “parere digitale” in grado di valutare la “compatibilità” della scelta/decisione che si intende adottare con la dimensione (e la sua implementazione) digitale”.
 
 Non sono state poche le città che hanno attivato, da questo punto di vista, tavoli permanenti di confronto e che hanno lanciato \ |STYLE18|\  aperti alla cittadinanza per disegnare il futuro della ripartenza.
 
