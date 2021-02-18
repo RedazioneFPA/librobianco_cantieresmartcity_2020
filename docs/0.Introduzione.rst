@@ -16,13 +16,20 @@ Alla fortissima presa d’atto di quanto in pochissimo tempo stesse accadendo - 
 
 FPA ha deciso così di avviare un processo di \ |STYLE3|\  partecipativo finalizzato a sostenere la centralità dei processi di innovazione in atto.
 
-Le principali questioni emerse durante gli incontri in termini di “eredità” e ripensamento strategico dei modelli, delle soluzioni e degli strumenti di \ |STYLE4|\  sono state ricondotte ad alcuni temi portanti di riflessione e di intervento sinteticamente illustrati nei Capitoli che seguono: “\ |STYLE5|\ ”, “\ |STYLE6|\ ”, “\ |STYLE7|\ ”, “\ |STYLE8|\ ”.
+\ |STYLE4|\ 
 
-\ |STYLE9|\ : gli input raccolti nel corso degli incontri e dei momenti di approfondimento che FPA ha realizzato nel corso del 2020 hanno rappresentato la premessa per l’individuazione dei principali ambiti di intervento e sono stati raccolti nel Capitolo “\ |STYLE10|\  \ |STYLE11|\  sono, quindi, riportati output, raccomandazioni, indicazioni, vocazioni e orientamenti emersi nel lungo percorso di ascolto e di confronto con gli stakeholder locali che FPA ha portato avanti lungo il 2020.
+Le principali questioni emerse durante gli incontri in termini di “eredità” e ripensamento strategico dei modelli, delle soluzioni e degli strumenti di \ |STYLE5|\  sono state ricondotte ad alcuni temi portanti di riflessione e di intervento sinteticamente illustrati nei Capitoli che seguono: “\ |STYLE6|\ ”, “\ |STYLE7|\ ”, “\ |STYLE8|\ ”, “\ |STYLE9|\ ”.
 
-Il contenuto del presente documento è aperto alla consultazione pubblica, affinché possa accogliere il loro contributo di una community allargata di esperti, amministratori locali e operatori privati. Con particolare riferimento agli ambiti di intervento indicati e al Capitolo \ |STYLE12|\ 
+Successivamente, attraverso la fase di consultazione pubblica, aperta dal 16 dicembre 2020 al 2 febbraio 2021, è stato poi raccolto il contributo della community allargata di esperti, amministratori locali e operatori privati. 
 
-Chiusa la fase di consultazione pubblica, tutti i contributi pervenuti saranno verificati e sistematizzati da FPA all’interno del Libro Bianco delle Responsive Cities.  Il \ |STYLE13|\ , arricchito da questo materiale, sarà presentato in un evento pubblico nella prima parte del 2021.
+.. admonition:: Commento di Franco Amigoni, Assessore all’innovazione Comune di Fidenza
+
+    Documenti come questo Libro Bianco “attraverso una paziente e continua fecondazione di rete, si stanno assumendo il compito di trovare un linguaggio adeguato alla sfida da affrontare”. 
+
+
+.. admonition:: Per il loro prezioso contributo, si ringraziano tra gli altri
+
+    Franco Amigoni, Adriano Bisello, Sebastiano Callari, Patrizia Cardillo, Massimo Casa, Tommaso Davi, Rosa Di Palma, Carlo Geri, Martino Pirella e tutta la community del Cantiere Smart City. 
 
 --------
 
@@ -39,25 +46,17 @@ Chiusa la fase di consultazione pubblica, tutti i contributi pervenuti saranno v
 
 .. |STYLE3| replace:: *advocacy*
 
-.. |STYLE4| replace:: *governance*
+.. |STYLE4| replace:: **Il presente Libro Bianco è frutto di un lavoro condiviso.**
 
-.. |STYLE5| replace:: *fragilità urbane*
+.. |STYLE5| replace:: *governance*
 
-.. |STYLE6| replace:: *uso della città*
+.. |STYLE6| replace:: *fragilità urbane*
 
-.. |STYLE7| replace:: *città condivisa*
+.. |STYLE7| replace:: *uso della città*
 
-.. |STYLE8| replace:: *conoscere e intervenire nella città*
+.. |STYLE8| replace:: *città condivisa*
 
-.. |STYLE9| replace:: **Il presente documento è un work in progress**
-
-.. |STYLE10| replace:: **Le**
-
-.. |STYLE11| replace:: **scelte da compiere”. In questo Capitolo**
-
-.. |STYLE12| replace:: **“Le scelte da compiere”.**
-
-.. |STYLE13| replace:: **Libro Bianco delle Responsive Cities 2020 di FPA**
+.. |STYLE9| replace:: *conoscere e intervenire nella città*
 
 
 .. |LINK1| raw:: html
